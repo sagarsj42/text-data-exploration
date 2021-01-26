@@ -1,0 +1,29 @@
+entity,start_char,end_char,label
+Bangalore,80,89,GPE
+this fifth day of December 2008,90,121,DATE
+152,185,188,CARDINAL
+Geethalayam,189,200,NORP
+OMH colong,201,211,PERSON
+T.Dasarahalli,232,245,ORG
+Sri,410,413,GPE
+3rd,466,469,ORDINAL
+Ayyappa Nagar,476,489,FAC
+Ayyappa Temple,497,511,FAC
+Jalahalli West,513,527,GPE
+Bangalore,529,538,GPE
+8/20 S.M. Road,758,772,QUANTITY
+Jalahalli West,774,788,GPE
+Bangalore,790,799,GPE
+500 sft,840,847,QUANTITY
+Ilnd,856,860,GPE
+A.C. Sheet,872,882,PERSON
+Four Thousand,1254,1267,CARDINAL
+eleven months,1369,1382,DATE
+6.p.c,1482,1487,ORG
+every eleventh month,1501,1521,DATE
+before 10th of each month,1570,1595,DATE
+thirty five thousand,1639,1659,CARDINAL
+three month,2072,2083,DATE
+one week,2201,2209,DATE
+third,2627,2632,ORDINAL
+SIIIDIII,2953,2961,ORG

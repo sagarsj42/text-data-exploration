@@ -1,0 +1,40 @@
+entity,start_char,end_char,label
+Principal Tenant,301,317,ORG
+Tenant,392,398,ORG
+Length of Agreement,428,447,LAW
+Month-to-Month,449,463,DATE
+thirty (30) days,528,544,DATE
+no less than 7 days,636,655,DATE
+y k0_0	_,664,672,ORG
+monthly,685,692,DATE
+the	Lh.	day of the month,696,720,ORG
+monthly,871,878,DATE
+monthly,922,929,DATE
+monthly,963,970,DATE
+monthly,1042,1049,DATE
+third,1433,1438,ORDINAL
+normal business hours,2029,2050,TIME
+mop&\(s^rent,2117,2129,PERSON
+refundablmvithin	days,2174,2195,ORG
+three weeks,2935,2946,DATE
+widi,3027,3031,ORG
+entided,3094,3101,ORG
+diis,3111,3115,ORG
+the County of Santa Cruz,3350,3374,GPE
+Scotts Valley,3398,3411,GPE
+annually,3443,3451,DATE
+'last month''s',3483,3495,DATE
+miuj,3633,3637,ORG
+ntlruc,3671,3677,WORK_OF_ART
+ar,3679,3681,ORG
+the Condition of Rental Property Checklist,3828,3870,ORG
+houXehold,3887,3896,ORG
+first,3897,3902,ORDINAL
+Megan,3914,3919,PERSON
+To Section 290.46 of Mie Penal Code,3937,3972,LAW
+the Department of Justice,4098,4123,ORG
+Disclosure of Information on Lead-Based Paint,4413,4458,WORK_OF_ART
+1978,4543,4547,DATE
+Protect Your Family from Lead in Your Home,4663,4705,WORK_OF_ART
+1978,4741,4745,DATE
+1-800,4766,4771,QUANTITY

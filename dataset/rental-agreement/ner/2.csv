@@ -1,0 +1,50 @@
+entity,start_char,end_char,label
+Chennai,128,135,GPE
+this 19th day of August 2013,136,164,DATE
+M. Geetha,180,189,PERSON
+about 53 years,215,229,DATE
+Saravana Flats,252,266,PERSON
+1st Floor,268,277,FAC
+Pinagapani Street,279,296,FAC
+Devaki Nagar,298,310,GPE
+Kundrathur,312,322,GPE
+069,336,339,CARDINAL
+Hereinafter,341,352,ORG
+one,524,527,CARDINAL
+J. L. Saravana,617,631,PERSON
+about 33 years,638,652,DATE
+Janakiraman Street,696,714,FAC
+Muthurangam Block,716,733,FAC
+Jafferkhanpet,735,748,GPE
+Ashok Nagar,750,761,PERSON
+Chennai,763,770,GPE
+083,777,780,CARDINAL
+M. Geetha,1003,1012,PERSON
+No.62-D,1054,1061,ORG
+Saravana Flats,1063,1077,PERSON
+1st Floor,1079,1088,FAC
+Pinagapani Street,1090,1107,FAC
+Devaki Nagar,1109,1121,GPE
+Kundrathur,1123,1133,GPE
+Chennai,1135,1142,GPE
+600 069 measuring 250 sq.ft,1145,1172,QUANTITY
+WITNESSETH,1586,1596,PERSON
+monthly,1693,1700,DATE
+No.62-D,1805,1812,ORG
+Saravana Flats,1814,1828,PERSON
+1st Floor,1830,1839,FAC
+Pinagapani Street,1841,1858,FAC
+Devaki Nagar,1860,1872,GPE
+Kundrathur,1874,1884,GPE
+069,1898,1901,CARDINAL
+11 Months commencing,2019,2039,DATE
+August 2014,2045,2056,DATE
+Rs.2500/-,2078,2087,NORP
+5th of every month,2116,2134,DATE
+the Rented Flat,2207,2222,ORG
+'Electricity, Maintenance and Water Charges',2246,2288,ORG
+Office,2347,2353,ORG
+writing 4 months,2986,3002,DATE
+every 11 months,3253,3268,DATE
+THE DAY,3433,3440,DATE
+2,3497,3498,CARDINAL

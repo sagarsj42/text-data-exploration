@@ -1,0 +1,61 @@
+entity,start_char,end_char,label
+This Rental Agreement,18,39,LAW
+23 rd day of,64,76,DATE
+05-2011,106,113,DATE
+54 years & 42 Years,153,172,DATE
+7th Cross,194,203,ORG
+'Shivanandanagar, Moodalapalya',206,235,ORG
+Bangalore,237,246,GPE
+first,306,311,ORDINAL
+first,327,332,ORDINAL
+M.V. Thirumalesh,344,360,PERSON
+S/O. Late M.V.,362,376,ORG
+about 32 years,397,411,DATE
+7th Cross,432,441,ORG
+'Shivanandanagar, Moodalapalya',444,473,ORG
+Bangalore,475,484,GPE
+second,543,549,ORDINAL
+The Word Owner and Tenant,557,582,WORK_OF_ART
+the First Party,687,702,ORG
+the Absolute Owner,706,724,ORG
+the Schedule property Second Party,746,780,EVENT
+WITNESSETH,985,995,PERSON
+Tenant,1014,1020,ORG
+this day,1025,1033,DATE
+Fifty Thousand,1069,1083,CARDINAL
+Tenant,1174,1180,ORG
+monthly,1197,1204,DATE
+Rs,1213,1215,PRODUCT
+Four Thousand,1233,1246,CARDINAL
+Two Hundred,1248,1259,CARDINAL
+5th,1292,1295,ORDINAL
+a period of,1346,1357,DATE
+2 months,1358,1366,DATE
+5 %,1440,1443,PERCENT
+Five Percent,1445,1457,PERCENT
+every one year,1467,1481,DATE
+Tenant,1488,1494,ORG
+Tenant,1588,1594,ORG
+Tenant,1692,1698,ORG
+Scheduled,1718,1727,ORG
+Good,1760,1764,GPE
+Three months,1789,1801,DATE
+Tenant,1845,1851,ORG
+Tenant,1936,1942,ORG
+Tenant,2009,2015,ORG
+11,2370,2372,CARDINAL
+Eleven) Months,2374,2388,DATE
+English,2411,2418,LANGUAGE
+calendar month,2419,2433,DATE
+7th Cross,2709,2718,ORG
+'Shivanandanagar, Moodalapalya',2721,2750,ORG
+Bangalore,2752,2761,GPE
+One,2785,2788,CARDINAL
+One,2795,2798,CARDINAL
+one,2811,2814,CARDINAL
+the day,2924,2931,DATE
+month,2933,2938,DATE
+year,2943,2947,DATE
+Bangalore,2967,2976,GPE
+M.V. Srinivas & M.V. Madhumathi,2996,3027,ORG
+M.V. Thirumalesh,3039,3055,PERSON

@@ -1,0 +1,35 @@
+entity,start_char,end_char,label
+chennai,82,89,GPE
+this 5th day of JUNE 2009,93,118,DATE
+B. Boobalan,127,138,PERSON
+about 40 years,144,158,DATE
+5/54,173,177,MONEY
+Nethaji Street,179,193,FAC
+Okkiyam Pettai,195,209,GPE
+PTC Quarters,211,223,ORG
+one,286,289,CARDINAL
+CHEBOLU,303,310,PERSON
+DIKSHITULU,315,325,ORG
+about 22 years,331,345,DATE
+5/54,358,362,MONEY
+Nethaji Street,364,378,FAC
+Okkiyam Pettai,380,394,GPE
+PTC Quarters,396,408,ORG
+WITNESSETH,537,547,PERSON
+monthly,584,591,DATE
+Rs.,600,603,PRODUCT
+6500/-,604,610,CARDINAL
+Six Thousand,619,631,CARDINAL
+Five Hundred,636,648,CARDINAL
+before 10th of every month,689,715,DATE
+Rs,762,764,PRODUCT
+30000,766,771,CARDINAL
+11 months,1033,1042,DATE
+the month,1075,1084,DATE
+English,1106,1113,LANGUAGE
+a consecutive period of,1239,1262,DATE
+3 months,1263,1271,DATE
+one month,1706,1715,DATE
+the day,2205,2212,DATE
+month,2213,2218,DATE
+year first,2223,2233,DATE
