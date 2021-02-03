@@ -1,0 +1,25 @@
+entity,start_char,end_char,label
+this 5th day of JUNE 2009,93,118,DATE
+B. Boobalan,127,138,PERSON
+about 40 years,144,158,DATE
+5/54,173,177,MONEY
+Nethaji Street,179,193,FAC
+Okkiyam Pettai,195,209,PERSON
+one,286,289,CARDINAL
+CHEBOLU VSR DIKSHITULU,303,325,PERSON
+about 22 years,331,345,DATE
+5/54,358,362,MONEY
+Nethaji Street,364,378,FAC
+Okkiyam Pettai,380,394,PERSON
+monthly,584,591,DATE
+Rs,600,602,ORG
+Owner,747,752,ORG
+30000,766,771,CARDINAL
+Owner,953,958,ORG
+a period of 11 months,1021,1042,DATE
+the month,1075,1084,DATE
+English calendar month,1106,1128,DATE
+a consecutive period of,1239,1262,DATE
+3 months,1263,1271,DATE
+one month,1706,1715,DATE
+'the day,month',2205,2218,DATE

@@ -1,0 +1,56 @@
+entity,start_char,end_char,label
+This Agreement of Tenancy,58,83,LAW
+Bangalore,108,117,GPE
+this the 1st day of February 2008,122,155,DATE
+'T.RADHA KRISHNAN
+
+No-57,1st',177,204,PERSON
+Murugeshpalya,241,254,PERSON
+Hereinafter,270,281,PERSON
+one,314,317,CARDINAL
+'No-401
+
+',371,379,PERSON
+'Banashankari
+
+',402,416,PERSON
+3rd,416,419,ORDINAL
+Kathiguppe,427,437,PERSON
+'Bangalore-85
+
+',439,453,PERSON
+9886463146,478,488,CARDINAL
+'i2 Technologies India Pvt, Ltd.',502,533,ORG
+132/133,535,542,MONEY
+Divya sree Technopolis,544,566,PERSON
+Yamalur,568,575,PERSON
+Road,594,598,FAC
+monthly,825,832,DATE
+'Rs.3,500/-(Rupees Three Thousand Five Hundred Only',841,891,EVENT
+5th,906,909,ORDINAL
+a period of Eleven Months commencing,1282,1318,DATE
+1st day of February 2008,1324,1348,DATE
+the month,1354,1363,DATE
+English calendar month,1385,1407,DATE
+a consecutive period of,1517,1540,DATE
+three months,1541,1553,DATE
+One month,2549,2558,DATE
+11 months,2881,2890,DATE
+5%,2926,2928,PERCENT
+Murugeshpalya,3045,3058,PERSON
+Attached Bathroom & Toilet,3107,3133,ORG
+two,3135,3138,CARDINAL
+Tube,3216,3220,ORG
+'the day, month',3334,3348,DATE
+first,3355,3360,ORDINAL
+'Jagdish
+
+',3390,3399,PERSON
+RifcoSanthosh Apartments,3422,3446,ORG
+'Murugeshpalya Bangalore-560017
+
+',3466,3498,PERSON
+9845444484,3514,3524,DATE
+'Babu
+
+',3529,3535,PERSON

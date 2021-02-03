@@ -1,0 +1,32 @@
+entity,start_char,end_char,label
+Bangalore,80,89,GPE
+this fifth day of December 2008,90,121,DATE
+Kelu Aehari,146,157,PERSON
+No 152 Geethalayam OMH,182,204,WORK_OF_ART
+S.M. Road,212,221,PERSON
+1st,222,225,DATE
+T.Dasarahalli,232,245,ORG
+Sri,410,413,GPE
+Narayana Namboodri,420,438,PERSON
+Laxmi Leela,440,451,WORK_OF_ART
+3rd,466,469,ORDINAL
+Ayyappa Nagar,476,489,PERSON
+Ayyappa Temple,497,511,PERSON
+Jalahalli West,513,527,PERSON
+Bangalore,529,538,GPE
+S.M. Road,763,772,PERSON
+Jalahalli West,774,788,PERSON
+Bangalore,790,799,GPE
+500,840,843,CARDINAL
+Ilnd,856,860,GPE
+A.C. Sheet,872,882,ORG
+MAHALAKSHMI INDUSTRIAL CONSULTANT’,1124,1158,WORK_OF_ART
+eleven months,1369,1382,DATE
+before 10th of each month,1570,1595,DATE
+three month,2072,2083,DATE
+one week,2201,2209,DATE
+third,2627,2632,ORDINAL
+'SIIIDIII
+
+',2953,2963,PERSON
+1,2988,2989,CARDINAL

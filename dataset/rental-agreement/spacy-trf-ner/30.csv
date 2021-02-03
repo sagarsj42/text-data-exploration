@@ -1,0 +1,39 @@
+entity,start_char,end_char,label
+Bangalore,64,73,GPE
+the 1st May 2005,82,98,DATE
+S.Sakunthala,121,133,PERSON
+Old Jail Road Jn,186,202,FAC
+Vishakapatnam,205,218,GPE
+V.V.Ravi Kian„,420,434,PERSON
+T.C.Palya Main Road,801,820,FAC
+11 (Eleven) months,1162,1180,DATE
+1st April 2010,1197,1211,DATE
+Lessee,1314,1320,ORG
+5%,1344,1346,PERCENT
+monthly,1354,1361,DATE
+monthly,1379,1386,DATE
+Lessee,1407,1413,ORG
+'Rs. 9,000/-',1463,1474,MONEY
+Nine thousand and,1476,1493,MONEY
+tenth day of subsequent month,1565,1594,DATE
+Lessee,1632,1638,GPE
+Lessee,1738,1744,GPE
+Lessee,2005,2011,ORG
+Lessee,2063,2069,ORG
+Lessee,2130,2136,GPE
+Lessee,2273,2279,GPE
+'Rs. 80,000/-',2298,2310,MONEY
+Rs. Eighty thousand,2312,2331,MONEY
+Lessee,2431,2437,GPE
+one month,2551,2560,DATE
+three months,2775,2787,DATE
+Fourth,2918,2924,ORDINAL
+T.C. Palya Main Road,2982,3002,FAC
+'Ram murthy nagar,',3004,3021,LOC
+three,3054,3059,CARDINAL
+two,3085,3088,CARDINAL
+month,3264,3269,DATE
+year,3274,3278,DATE
+first,3282,3287,ORDINAL
+1,3318,3319,CARDINAL
+2,3322,3323,CARDINAL

@@ -1,0 +1,47 @@
+entity,start_char,end_char,label
+Tenancy,36,43,ORG
+Chennai,68,75,GPE
+1st day of September 2011,79,104,DATE
+k.Sarguneswaran,126,141,PERSON
+Rao,158,161,PERSON
+about 54 years,167,181,DATE
+20/3,198,202,CARDINAL
+Venkateswara nagar,204,222,FAC
+IstMain road,224,236,LOC
+Velachery,238,247,GPE
+Chennai,249,256,GPE
+Tamil Nadu,263,273,LOC
+Hereinafter,275,286,PERSON
+28 years,348,356,DATE
+Madha,379,384,GPE
+Ganesapuram,399,410,GPE
+637001,422,428,CARDINAL
+Hereinafter,430,441,PERSON
+Tenant,480,486,ORG
+Owner,505,510,ORG
+Venkateswara nagar,562,580,FAC
+1st Main road,582,595,ORG
+Velachery,597,606,GPE
+Chennai,608,615,GPE
+Tamil Nadu,622,632,LOC
+monthly,789,796,DATE
+Rs,805,807,ORG
+7200,809,813,CARDINAL
+Seven thousand and two hundred,815,845,CARDINAL
+000,934,937,CARDINAL
+Forty thousand,939,953,CARDINAL
+Owner,997,1002,ORG
+a period of eleven months,1159,1184,DATE
+the month,1215,1224,DATE
+English calendar month,1246,1268,DATE
+a consecutive period of,1377,1400,DATE
+two or more months,1401,1419,DATE
+Owner,1629,1634,ORG
+Tenant,1874,1880,ORG
+Rs 4,2114,2118,ORG
+Four,2125,2129,CARDINAL
+one month,2174,2183,DATE
+2,2389,2390,CARDINAL
+2,2398,2399,CARDINAL
+the day,2491,2498,DATE
+1,2555,2556,CARDINAL

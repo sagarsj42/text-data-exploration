@@ -1,0 +1,30 @@
+entity,start_char,end_char,label
+Chennai,117,124,GPE
+14th day of July 2010,138,159,DATE
+P. JohnsonRavikumar,172,191,PERSON
+about 43 Years,198,212,DATE
+10,236,238,CARDINAL
+Jeevanantham Street,251,270,LOC
+'Lakshmipuram Tiruvanmiyur,',272,298,GPE
+Chennai,299,306,GPE
+Saravanan BV,427,439,PERSON
+about 27 years,445,459,DATE
+10,483,485,CARDINAL
+Jeevanantham Street,498,517,LOC
+'Lakshmipuram Tiruvanmiyur,',519,545,GPE
+Chennai,546,553,GPE
+10,921,923,CARDINAL
+Jeevanantham Street,936,955,LOC
+monthly,1056,1063,DATE
+TENANT,1095,1101,ORG
+11 months,1194,1203,DATE
+01.04.2010,1219,1229,DATE
+30.03.2011,1246,1256,DATE
+monthly,1263,1270,DATE
+'Rs. 10,000/- (Rupees Ten Thousand',1325,1358,MONEY
+the English,1398,1409,DATE
+5th of every succeeding calendar month,1459,1497,DATE
+'Rs.50, 000/-',1531,1543,MONEY
+Rupees Fifty thousand,1545,1566,MONEY
+three months,2450,2462,DATE
+1,2757,2758,CARDINAL

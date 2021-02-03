@@ -1,0 +1,124 @@
+entity,start_char,end_char,label
+'this 11 day of December, 2008',59,88,DATE
+Jose Luis Salcido,168,185,PERSON
+Resident,220,228,WORK_OF_ART
+Resident,252,260,PRODUCT
+Resident,266,274,PRODUCT
+Management,286,296,ORG
+California,365,375,GPE
+93535,382,387,CARDINAL
+the Clerk of the Superior Court,454,485,ORG
+Kern County,489,500,GPE
+$700.00 Dollars,683,698,MONEY
+'the 15 day of DECEMBER, 2008',723,751,DATE
+Resident,846,854,ORG
+Property,902,910,ORG
+seven,1157,1162,CARDINAL
+7) days,1164,1171,DATE
+Property,1301,1309,ORG
+Management,1932,1942,ORG
+Resident,1989,1997,ORG
+Property,2773,2781,ORG
+Resident,2895,2903,PRODUCT
+Resident and Management,3261,3284,ORG
+monthly,3347,3354,DATE
+Property,3682,3690,ORG
+Management,3727,3737,ORG
+Resident,3793,3801,PRODUCT
+Property,3886,3894,ORG
+2,4298,4299,CARDINAL
+14 days,4403,4410,DATE
+monthly,4476,4483,DATE
+100.00,4493,4499,MONEY
+the beginning date of this Agreement,4541,4577,DATE
+Property,4812,4820,ORG
+Resident,5148,5156,WORK_OF_ART
+Management,5372,5382,ORG
+Property,5621,5629,ORG
+Resident,6030,6038,ORG
+Property,6370,6378,ORG
+monthly,6657,6664,DATE
+Management,7203,7213,ORG
+Resident with Management,7278,7302,ORG
+Management,7571,7581,ORG
+Resident,7596,7604,PRODUCT
+Management,7645,7655,ORG
+Resident,7866,7874,PRODUCT
+Resident,8692,8700,PRODUCT
+Property,9412,9420,ORG
+'300,000.00',9471,9481,MONEY
+1980,9564,9568,DATE
+Property,9678,9686,ORG
+Property,9740,9748,ORG
+Property,9993,10001,ORG
+later than three,10011,10027,CARDINAL
+3) days,10029,10036,DATE
+this Agreement with Management.,10057,10088,LAW
+the Federal Pamphlet Protect Your Family From Lead in Your Home,10131,10194,ORG
+Property,10390,10398,ORG
+Management,10461,10471,ORG
+Resident,10519,10527,EVENT
+Property,10582,10590,ORG
+Management,10849,10859,ORG
+a month to month,10957,10973,DATE
+50%,11077,11080,PERCENT
+the Rental Rate,11093,11108,ORG
+hours,11343,11348,TIME
+Resident,11385,11393,PRODUCT
+Management,11495,11505,ORG
+60) days,11678,11686,DATE
+Property,11778,11786,ORG
+Property,11830,11838,ORG
+reasonable hours,11846,11862,TIME
+Resident,11898,11906,PRODUCT
+Resident,12049,12057,WORK_OF_ART
+Resident,12216,12224,PRODUCT
+24 hours,12233,12241,TIME
+Property,12325,12333,ORG
+Management,12376,12386,ORG
+Property,12580,12588,ORG
+Resident in Bankruptcy,12737,12759,ORG
+Resident,12790,12798,PRODUCT
+Management,12930,12940,ORG
+'Resident, Management',13058,13078,ORG
+Management,13139,13149,ORG
+Resident,13278,13286,ORG
+Resident,13323,13331,PRODUCT
+Property,13445,13453,ORG
+Resident,13701,13709,ORG
+more than seven,13804,13819,CARDINAL
+7) days,13821,13828,DATE
+'Management, Management',13873,13895,ORG
+Property,13913,13921,ORG
+first,14350,14355,ORDINAL
+Management,14361,14371,ORG
+Management,14480,14490,ORG
+Resident,14563,14571,PRODUCT
+Management,14791,14801,ORG
+Property and Resident,14956,14977,ORG
+Management,15104,15114,ORG
+Management or Resident,15268,15290,ORG
+Property,15365,15373,ORG
+Management and Resident,15922,15945,ORG
+Management; Resident,15975,15995,ORG
+years,16038,16043,DATE
+Property,16216,16224,ORG
+Management,16344,16354,ORG
+Resident,16599,16607,WORK_OF_ART
+Management to Resident,16692,16714,ORG
+Management,16784,16794,ORG
+first,17016,17021,ORDINAL
+Property,17058,17066,ORG
+3,17166,17167,CARDINAL
+Resident,17255,17263,PRODUCT
+Management,17474,17484,ORG
+this Rental Agreement,17512,17533,LAW
+this Rental Agreement,17770,17791,LAW
+24 hours,17873,17881,TIME
+Property,18218,18226,ORG
+Management and Management,18458,18483,ORG
+Agreement,18885,18894,LAW
+Inspection Report,19071,19088,ORG
+EPA,19090,19093,ORG
+EPA,19117,19120,ORG
+the day,19319,19326,DATE

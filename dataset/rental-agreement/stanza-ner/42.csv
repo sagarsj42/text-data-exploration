@@ -1,0 +1,38 @@
+entity,start_char,end_char,label
+2003,0,4,DATE
+Stamps Department,106,123,ORG
+This Rental Agreement,233,254,LAW
+Bangalore,283,292,GPE
+Giddapp,329,336,PERSON
+Na^ippa,348,355,GPE
+Srvinthi,376,384,GPE
+5600,415,419,CARDINAL
+16,420,422,CARDINAL
+One,462,465,CARDINAL
+Pottumurthi Udayaiaxmi W,475,499,PERSON
+Miryalaguda,550,561,ORG
+503207,584,590,CARDINAL
+Hereinafter,593,604,PERSON
+1,688,689,CARDINAL
+Tenant,703,709,ORG
+'40,000',741,747,MONEY
+Forty thousand,752,766,CARDINAL
+thousand three hundred,1017,1039,CARDINAL
+Electrcity,1067,1077,ORG
+This R-mtal Agreement Duration,1119,1149,LAW
+11 (Eleven) months,1159,1177,DATE
+Tenancy,1273,1280,ORG
+Two Konth,1325,1334,ORG
+Tenant,1378,1384,ORG
+Tenant,1532,1538,ORG
+Tenant,1669,1675,ORG
+House,1764,1769,ORG
+1st,1798,1801,ORDINAL
+2nd,1808,1811,ORDINAL
+Shanthi Vo. RarrH.murthyrvagar,1819,1849,ORG
+Bangalore 560016,1851,1867,FAC
+1,1880,1881,CARDINAL
+BttC,1882,1886,ORG
+this Rental Agreement,1963,1984,LAW
+the day,1988,1995,DATE
+month end year first,1996,2016,DATE

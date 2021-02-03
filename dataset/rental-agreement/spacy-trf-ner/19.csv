@@ -1,0 +1,21 @@
+entity,start_char,end_char,label
+Bangalore,70,79,GPE
+this 22.01.2013,83,98,DATE
+SEKHAR,115,121,PERSON
+'28 YRS
+
+S/0.MR.KRISHNA',133,155,DATE
+monthly,1021,1028,DATE
+11.04.2012,1199,1209,DATE
+eleven months,1246,1259,DATE
+5 %,1285,1288,PERCENT
+monthly,1425,1432,DATE
+'Rs. 15,000/-',1441,1453,MONEY
+Fifteen thousand only	,1463,1485,MONEY
+5th of every succeeding month,1518,1547,DATE
+the english,1555,1566,DATE
+One Lakh fifty thousadn,1642,1665,MONEY
+all reasonable hours,2154,2174,TIME
+eleven months,2542,2555,DATE
+'Rs. 15,000/-towards',2584,2603,MONEY
+NESTER RAGA APARTMENTS,2656,2678,ORG

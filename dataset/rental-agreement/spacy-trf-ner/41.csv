@@ -1,0 +1,26 @@
+entity,start_char,end_char,label
+Month,458,463,DATE
+thirty (30) days,528,544,DATE
+no less than 7 days,636,655,DATE
+monthly,685,692,DATE
+the	Lh.	day of the month,696,720,DATE
+Tenant,852,858,ORG
+monthly,871,878,DATE
+monthly,922,929,DATE
+monthly,963,970,DATE
+monthly,1042,1049,DATE
+third,1433,1438,ORDINAL
+normal business hours,2029,2050,TIME
+three weeks,2935,2946,DATE
+the County of Santa Cruz,3350,3374,GPE
+Scotts Valley,3398,3411,GPE
+annually,3443,3451,DATE
+'last month''s',3483,3495,DATE
+the Condition of Rental Property Checklist,3828,3870,WORK_OF_ART
+first,3897,3902,ORDINAL
+Megan,3914,3919,PERSON
+Section 290.46,3940,3954,LAW
+Mie Penal Code,3958,3972,LAW
+the Department of Justice,4098,4123,ORG
+Protect Your Family,4663,4682,WORK_OF_ART
+1978,4741,4745,DATE

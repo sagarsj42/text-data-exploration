@@ -1,0 +1,67 @@
+entity,start_char,end_char,label
+This Rental Agreement,18,39,LAW
+Bangalore,64,73,GPE
+this the 1st May 2005,77,98,DATE
+S.Sakunthala,121,133,PERSON
+'4E,10-12-1',141,151,CARDINAL
+Hereinafter,229,240,PERSON
+V.V.Ravi Kian„,420,434,PERSON
+Sastry,446,452,PERSON
+A.S.Rao Nagar,455,468,PERSON
+Hyderabad Andhra Pradesh,471,495,GPE
+Hereinafter,501,512,PERSON
+LESSEE,525,531,PERSON
+Lessor,714,720,PERSON
+Fourth Floor,750,762,FAC
+No:407A,792,799,FAC
+T.C.Palya Main Road,801,820,FAC
+Ram murthy nagar,822,838,FAC
+Bangalore-16,840,852,FAC
+Lessor,988,994,ORG
+Lessee,1051,1057,ORG
+Lease,1131,1136,ORG
+11 (Eleven) months,1162,1180,DATE
+1st April 2010,1197,1211,DATE
+Lessor,1299,1305,ORG
+Lessee,1314,1320,ORG
+5%,1344,1346,PERCENT
+monthly,1354,1361,DATE
+monthly,1379,1386,DATE
+Lessee,1407,1413,ORG
+LESSOR,1421,1427,ORG
+the Schedule Property,1432,1453,ORG
+'9,000/- (Nine thousand and two hundred rupees',1467,1512,MONEY
+every month,1546,1557,DATE
+tenth day of subsequent month,1565,1594,DATE
+Lessee,1632,1638,ORG
+Lessee,1738,1744,PERSON
+the Schedule Property,1760,1781,FAC
+the Lessee in the Schedule Property,2001,2036,LAW
+Lessee,2063,2069,ORG
+The Schedule Property,2087,2108,LAW
+Lessee,2130,2136,ORG
+Lessee,2273,2279,ORG
+'80,000',2302,2308,MONEY
+Eighty thousand,2316,2331,CARDINAL
+Security Deposit,2356,2372,ORG
+Lessor,2417,2423,ORG
+Lessee,2431,2437,ORG
+the Schedule Premises,2483,2504,ORG
+one month,2551,2560,DATE
+Lease,2597,2602,LAW
+Lessor,2691,2697,ORG
+Lessee,2706,2712,ORG
+three months,2775,2787,DATE
+Lessee,2829,2835,ORG
+Fourth,2918,2924,ORDINAL
+HNO:407 A,2971,2980,FAC
+T.C. Palya Main Road,2982,3002,FAC
+Ram murthy nagar,3004,3020,FAC
+Bangalore-560037,3022,3038,FAC
+three,3054,3059,CARDINAL
+two,3085,3088,CARDINAL
+WITNESS,3152,3159,ORG
+'the day, month and year',3255,3278,DATE
+first,3282,3287,ORDINAL
+1,3318,3319,CARDINAL
+2.,3322,3324,CARDINAL

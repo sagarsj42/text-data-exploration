@@ -1,0 +1,40 @@
+entity,start_char,end_char,label
+Chennai,68,75,GPE
+1st day of September 2011,79,104,DATE
+1-3-2011,106,114,DATE
+Sarguneswaran,128,141,PERSON
+G.Kasinath Rao,147,161,PERSON
+about 54 years,167,181,DATE
+20/3,198,202,CARDINAL
+Venkateswara nagar,204,222,FAC
+IstMain road,224,236,FAC
+Velachery,238,247,GPE
+Tamil Nadu,263,273,GPE
+R.Mathankumar,316,329,PERSON
+Ramasamy,334,342,PERSON
+28 years,348,356,DATE
+Madha kovil street,379,397,LOC
+Ganesapuram,399,410,GPE
+20/3,556,560,CARDINAL
+Venkateswara nagar,562,580,FAC
+1st Main road,582,595,LOC
+Velachery,597,606,GPE
+Tamil Nadu,622,632,GPE
+monthly,789,796,DATE
+Rs. 7200,805,813,MONEY
+Seven thousand and two hundred,815,845,CARDINAL
+5 th day of every month,865,888,DATE
+'Rs.40, 000',927,937,MONEY
+eleven months,1171,1184,DATE
+the month,1215,1224,DATE
+the English calendar month,1242,1268,DATE
+two or more months,1401,1419,DATE
+Rs 4,2114,2118,MONEY
+Four,2125,2129,CARDINAL
+one month,2174,2183,DATE
+2,2389,2390,CARDINAL
+2,2398,2399,CARDINAL
+the day,2491,2498,DATE
+the month,2500,2509,DATE
+the year first,2512,2526,DATE
+1,2555,2556,CARDINAL

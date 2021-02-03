@@ -1,0 +1,24 @@
+entity,start_char,end_char,label
+This Rental Agreement,13,34,LAW
+the .?.??& day of		2010,64,87,DATE
+Hyderabad,91,100,GPE
+Rangaiah,154,162,GPE
+309,178,181,CARDINAL
+JE12DIJNETLA,201,213,GPE
+Ranga Reddy Districto,217,238,PERSON
+MADDIREDDY BHARGAVA REDDY,282,307,ORG
+S/O,309,312,GPE
+MADDIREDDY,313,323,GPE
+SHEETAL,354,361,GPE
+JEEDIMETLA,371,381,GPE
+Ranga Reddy District,384,404,LOC
+Hereinafter,409,420,PERSON
+Landlord,455,463,ORG
+303,531,534,CARDINAL
+House/Plot,672,682,ORG
+monthly,767,774,DATE
+5th day of every month,794,816,DATE
+9.99.7.9°	 p.m.,823,838,TIME
+11 months,921,930,DATE
+Resident iai__|iroofo,953,974,PERSON
+this the Rental Agreement,1029,1054,LAW

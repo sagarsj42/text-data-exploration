@@ -1,0 +1,24 @@
+entity,start_char,end_char,label
+this 10th- mav 2009,68,87,DATE
+one,230,233,CARDINAL
+8th,310,313,ORDINAL
+'B.T.M 2nd(EWS)
+
+',341,357,FAC
+1 l(Eleven) Months,999,1017,DATE
+10%,1153,1156,PERCENT
+every 11 months,1160,1175,DATE
+three months,1709,1721,DATE
+15th of every English,2116,2137,DATE
+3 months,2228,2236,DATE
+Lessee,2391,2397,ORG
+Lessee,2432,2438,ORG
+all reasonable hours,2583,2603,TIME
+all reasonable hours,2762,2782,TIME
+BTM 2nd Stage,3406,3419,FAC
+One,3460,3463,CARDINAL
+RCC,3506,3509,ORG
+Lessee,3595,3601,ORG
+'the day,month and year',3644,3666,DATE
+first,3667,3672,ORDINAL
+Bangalore,3684,3693,GPE

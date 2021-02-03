@@ -1,0 +1,48 @@
+entity,start_char,end_char,label
+Chennai - 600,117,130,FAC
+14th day of July 2010,138,159,DATE
+P. JohnsonRavikumar,172,191,PERSON
+about 43 Years,198,212,DATE
+10,236,238,CARDINAL
+Jeevanantham Street,251,270,FAC
+Lakshmipuram Tiruvanmiyur,272,297,FAC
+Chennai,299,306,GPE
+041,313,316,CARDINAL
+Saravanan,427,436,PERSON
+about 27 years,445,459,DATE
+10,483,485,CARDINAL
+Jeevanantham Street,498,517,FAC
+Lakshmipuram Tiruvanmiyur,519,544,FAC
+Chennai,546,553,GPE
+041,560,563,CARDINAL
+HOUSE,671,676,ORG
+HOUSE,854,859,ORG
+10,921,923,CARDINAL
+Jeevanantham Street,936,955,FAC
+Lakshmipuram Tiruvanmiyur,957,982,FAC
+Chennai - 600 041,984,1001,FAC
+HOUSE,1079,1084,ORG
+11 months,1194,1203,DATE
+01.04.2010,1219,1229,CARDINAL
+30.03.2011,1246,1256,CARDINAL
+monthly,1263,1270,DATE
+'10,000/- (Rupees Ten Thousand',1329,1358,MONEY
+the English calendar month,1398,1424,DATE
+before 5th of every succeeding calendar month,1452,1497,DATE
+Rs.50,1531,1536,MONEY
+Fifty thousand,1552,1566,CARDINAL
+House,1611,1616,ORG
+Tenant,1657,1663,ORG
+Tenant,1689,1695,ORG
+Tenant,1790,1796,ORG
+House,2058,2063,ORG
+Tenant,2154,2160,ORG
+Tenant,2241,2247,ORG
+Tenant,2314,2320,ORG
+House,2409,2414,ORG
+Tenant,2425,2431,ORG
+three months,2450,2462,DATE
+the day,2690,2697,DATE
+month and year first,2700,2720,DATE
+TENANT,2737,2743,PERSON
+1,2757,2758,CARDINAL

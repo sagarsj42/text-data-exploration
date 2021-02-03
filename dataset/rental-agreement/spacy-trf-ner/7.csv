@@ -1,0 +1,41 @@
+entity,start_char,end_char,label
+this first day of September 2011,101,133,DATE
+01-09-2011,135,145,DATE
+Bangalore,150,159,GPE
+S Parthasarathy,179,194,PERSON
+SS Ayyangar,203,214,PERSON
+69 years,221,229,DATE
+9,267,268,CARDINAL
+Film Nagar,270,280,LOC
+Jubilee Hills,282,295,LOC
+Hari Kiran Tholeti,372,390,PERSON
+Sambasiva Rao,399,412,PERSON
+36 years,419,427,DATE
+202,446,449,CARDINAL
+36,456,458,CARDINAL
+S Parthasarathy,633,648,PERSON
+121,711,714,CARDINAL
+Kendriya Vihar,777,791,FAC
+Yelahanka,817,826,GPE
+the Kendriya Vihar Apartment Owners Association,1298,1345,ORG
+KVAOA,1347,1352,ORG
+4,1424,1425,CARDINAL
+3,1653,1654,CARDINAL
+KVAOA,1725,1730,ORG
+KVAOA,1779,1784,ORG
+1st September 2011,1828,1846,DATE
+11 (eleven) months,1887,1905,DATE
+monthly,1928,1935,DATE
+the 5th of every calendar month,2040,2071,DATE
+BESCOM,2131,2137,ORG
+day,2173,2176,DATE
+1,3298,3299,CARDINAL
+10%,3320,3323,PERCENT
+eleven months,3348,3361,DATE
+this Rental Agreement,3387,3408,LAW
+the Rental Agreement,3797,3817,LAW
+this Rental Agreement,3962,3983,LAW
+this Rental Agreement,4059,4080,LAW
+Rupees Sixty Five Thousand,4234,4260,MONEY
+S Parthasarathy,4568,4583,PERSON
+Hari Kiran Tholeti,4638,4656,PERSON

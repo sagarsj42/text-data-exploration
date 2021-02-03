@@ -1,0 +1,26 @@
+entity,start_char,end_char,label
+21st OF MARCH 2010,111,129,DATE
+P C MATHEW,142,152,PERSON
+first,211,216,ORDINAL
+second,307,313,ORDINAL
+first,356,361,ORDINAL
+second,538,544,ORDINAL
+monthly,575,582,DATE
+Rs.9000,591,598,MONEY
+monthly,632,639,DATE
+second,808,814,ORDINAL
+1st April 2010,865,879,DATE
+monthly,942,949,DATE
+11 months,1012,1021,DATE
+1st of April 2010,1036,1053,DATE
+5th of the succeeding calendar month,1087,1123,DATE
+11 months,1188,1197,DATE
+'this day, 1st of April 2010',1215,1242,DATE
+monthly,1703,1710,DATE
+Two months,3445,3455,DATE
+two month,3736,3745,DATE
+eleven months,3843,3856,DATE
+one month,3858,3867,DATE
+THE DAY AND YEAR ABOVE,4521,4543,DATE
+First,4577,4582,ORDINAL
+Second,4603,4609,ORDINAL

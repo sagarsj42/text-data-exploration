@@ -1,0 +1,74 @@
+entity,start_char,end_char,label
+This Rental Agreement,18,39,LAW
+Bangalore,61,70,GPE
+this 1st day April two thousand eleven (01/04/2011),74,125,DATE
+Prof,135,139,PERSON
+K. Parthasarathy,141,157,PERSON
+Krishna Iyengar,173,188,PERSON
+about 75 years,194,208,DATE
+No. 46,210,216,FAC
+Srinivasa,218,227,GPE
+2nd Main Road,229,242,FAC
+Hanumanthanagar,244,259,GPE
+Bangalore,261,270,GPE
+560019,271,277,CARDINAL
+Veerabrahmam Bathini,474,494,PERSON
+Mr.Lingaiah Bathini,500,519,PERSON
+about 28 years,525,539,DATE
+Sr. Engineer-PSS,541,557,ORG
+Power Research and Development Consultants,569,611,ORG
+5,614,615,CARDINAL
+11th,617,621,ORDINAL
+2nd,629,632,ORDINAL
+West of Chord Road,640,658,FAC
+Bangalore,660,669,GPE
+560086,670,676,CARDINAL
+SECOND,723,729,ORDINAL
+Lessor,765,771,ORG
+Lessee,794,800,ORG
+the First Floor,887,902,FAC
+146,919,922,CARDINAL
+Krishna Krupa,924,937,PERSON
+3rd Cross,939,948,FAC
+1st Main,950,958,FAC
+VHBCSL Layout,960,973,FAC
+West of Chord Road,975,993,FAC
+Bangalore-560086,995,1011,GPE
+Lessor,1018,1024,PERSON
+the Lessee the First Floor,1049,1075,PRODUCT
+146,1097,1100,CARDINAL
+Krishna Krupa,1102,1115,PERSON
+3rd Cross,1117,1126,FAC
+1st Main,1128,1136,FAC
+VHBCSL Layout,1138,1151,FAC
+West of Chord Road,1153,1171,FAC
+Bangalore- 560086,1173,1190,FAC
+Lessee,1231,1237,ORG
+Lessor,1251,1257,PRODUCT
+monthly,1311,1318,DATE
+eight thousand,1346,1360,CARDINAL
+10th of each calendar month,1404,1431,DATE
+Lessee,1470,1476,ORG
+monthly,1494,1501,DATE
+Lessor,1520,1526,ORG
+Lessee,1641,1647,ORG
+a period of twelve months,1733,1758,DATE
+LEASE-DEED,1868,1878,LAW
+Lessee,2055,2061,ORG
+Lessor,2283,2289,PERSON
+Lessee,2380,2386,PERSON
+Lessee,2409,2415,PRODUCT
+Lessor,2492,2498,PERSON
+Lessor,2678,2684,PERSON
+all reasonable hours,2758,2778,TIME
+Lessee,2897,2903,ORG
+three months,2914,2926,DATE
+first,2961,2966,ORDINAL
+146,2984,2987,CARDINAL
+VHBCSL Layout,2989,3002,FAC
+3rd,3004,3007,ORDINAL
+1st Main,3015,3023,FAC
+Bangalore-560086,3025,3041,FAC
+147,3062,3065,CARDINAL
+North,3070,3075,PERSON
+161,3079,3082,CARDINAL

@@ -1,0 +1,21 @@
+entity,start_char,end_char,label
+Bangalore,65,74,GPE
+'this 1st day of April,2009(01',78,107,DATE
+Parasu Ram Mishra,139,156,PERSON
+2,210,211,CARDINAL
+monthly,1203,1210,DATE
+5th of Every English calendar month,1232,1267,DATE
+1 l(Eleven) months,1439,1457,DATE
+every 11 months,1568,1583,DATE
+5%,1586,1588,PERCENT
+one month,2465,2474,DATE
+one month,2556,2565,DATE
+any reasonable hours,2695,2715,TIME
+one month,2756,2765,DATE
+one,2901,2904,CARDINAL
+one,2910,2913,CARDINAL
+one,2923,2926,CARDINAL
+one,2939,2942,CARDINAL
+two,2956,2959,CARDINAL
+first,3022,3027,ORDINAL
+Lessee,3143,3149,PERSON

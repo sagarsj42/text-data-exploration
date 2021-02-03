@@ -1,0 +1,82 @@
+entity,start_char,end_char,label
+27TH Day of MARCH 2016,47,69,DATE
+PAUL PAULINO,93,105,PRODUCT
+Landlord,122,130,WORK_OF_ART
+month to month,360,374,DATE
+APRIL 1. 2016,386,399,DATE
+month-to-month,468,482,DATE
+Tenants,522,529,ORG
+at least 30 days,574,590,DATE
+Agreement,638,647,LAW
+Tenant,682,688,ORG
+Landlord,703,711,ORG
+S800,736,740,CARDINAL
+monthly,768,775,DATE
+the 1st day of each month,790,815,DATE
+'The first month''s',851,868,DATE
+ARSENLA PAULINO,1027,1042,ORG
+Landlord,1206,1214,ORG
+this Rental Agreement,1250,1271,LAW
+7 days,1282,1288,DATE
+the 8th of the month,1346,1366,DATE
+25,1392,1394,MONEY
+an additional $5,1410,1426,MONEY
+every day,1439,1448,DATE
+Landlord,1699,1707,ORG
+25,1758,1760,MONEY
+500,2013,2016,MONEY
+Landlord,2073,2081,ORG
+Landlord,2350,2358,ORG
+at least thirty (30) working days,2365,2398,DATE
+Tenants,2405,2412,ORG
+Landlord,2453,2461,ORG
+Tenant,2672,2678,ORG
+30 days,2728,2735,DATE
+at least thirty (30) days,2891,2916,DATE
+Tenant,3062,3068,ORG
+Landlord,3098,3106,ORG
+Tenant,3250,3256,ORG
+Landlord,3369,3377,ORG
+Tenants,3706,3713,ORG
+15 days,3748,3755,DATE
+that month,3791,3801,DATE
+previous months,3837,3852,DATE
+Landlord,3885,3893,ORG
+Tenant,4107,4113,FAC
+two,4176,4179,CARDINAL
+Landlord,4341,4349,ORG
+Tenants,4489,4496,ORG
+Landlord,4667,4675,ORG
+3 days,4683,4689,DATE
+Tenants,5024,5031,ORG
+Landlord,5349,5357,ORG
+Landlord,5477,5485,ORG
+Landlord,5675,5683,ORG
+Premises,5769,5777,ORG
+Washer/Dryer - Trash /Recycle,5801,5830,ORG
+WiFi/Intemet,5840,5852,ORG
+PAULINO,5854,5861,ORG
+more than seventy-two (72) hours,6485,6517,TIME
+Landlords,6632,6641,ORG
+Tenants,6679,6686,ORG
+Tenants,6745,6752,ORG
+3-day,7471,7476,DATE
+SUBLETTING & ASSIGNMENT,7538,7561,ORG
+Agreement,7665,7674,LAW
+first,7698,7703,ORDINAL
+Landlord,7816,7824,ORG
+Landlord,7975,7983,ORG
+Landlords,8054,8063,ORG
+first,8076,8081,ORDINAL
+Tenant,8131,8137,ORG
+the Rental Application,8165,8187,LAW
+Landlord,8518,8526,PERSON
+Landlord,8671,8679,ORG
+45 days,8711,8718,DATE
+Tenant,8737,8743,ORG
+this Rental Contract,8784,8804,LAW
+this Rental Agreement,8843,8864,LAW
+Tenant,9244,9250,ORG
+this Rental Agreement,9254,9275,LAW
+the Rental Agreement,9336,9356,LAW
+'this	day of	, 20',9368,9384,DATE

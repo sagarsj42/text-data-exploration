@@ -1,0 +1,45 @@
+entity,start_char,end_char,label
+Bangalore,61,70,GPE
+this 1st day April two thousand eleven,74,112,DATE
+K. Parthasarathy,141,157,PERSON
+T.S.Krishna Iyengar,169,188,PERSON
+about 75 years,194,208,DATE
+46,214,216,CARDINAL
+Srinivasa,218,227,FAC
+2nd Main Road,229,242,LOC
+Hanumanthanagar,244,259,GPE
+FIRST,452,457,ORDINAL
+Veerabrahmam Bathini,474,494,PERSON
+Lingaiah Bathini,503,519,PERSON
+about 28 years,525,539,DATE
+Power Research and Development Consultants,569,611,ORG
+5,614,615,CARDINAL
+11th,617,621,ORDINAL
+2nd,629,632,ORDINAL
+Lessee,794,800,PERSON
+First,891,896,ORDINAL
+146,919,922,CARDINAL
+3rd Cross,939,948,LOC
+1st Main,950,958,LOC
+VHBCSL Layout,960,973,LOC
+First,1064,1069,ORDINAL
+146,1097,1100,CARDINAL
+3rd Cross,1117,1126,LOC
+1st Main,1128,1136,LOC
+VHBCSL Layout,1138,1151,LOC
+monthly,1311,1318,DATE
+'Rs.8,000/-',1327,1337,MONEY
+10th of each calendar month,1404,1431,DATE
+monthly,1494,1501,DATE
+twelve months,1745,1758,DATE
+Lessee,2380,2386,ORG
+Lessee,2409,2415,GPE
+all reasonable hours,2758,2778,TIME
+Lessee,2897,2903,GPE
+three months,2914,2926,DATE
+first,2961,2966,ORDINAL
+146,2984,2987,CARDINAL
+VHBCSL Layout,2989,3002,FAC
+3rd,3004,3007,ORDINAL
+147,3062,3065,CARDINAL
+161,3079,3082,CARDINAL

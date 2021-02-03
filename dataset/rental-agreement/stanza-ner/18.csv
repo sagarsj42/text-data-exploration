@@ -1,0 +1,28 @@
+entity,start_char,end_char,label
+this 5th day of JUNE 2009 between B. Boobalan,93,138,DATE
+about 40 years,144,158,DATE
+5/54,173,177,MONEY
+Nethaji Street,179,193,FAC
+Okkiyam Pettai,195,209,FAC
+PTC Quarters,211,223,ORG
+Chennai - 600097,225,241,FAC
+one,286,289,CARDINAL
+CHEBOLU,303,310,PERSON
+about 22 years,331,345,DATE
+#5/54,357,362,FAC
+Nethaji Street,364,378,FAC
+Okkiyam Pettai,380,394,FAC
+PTC Quarters,396,408,ORG
+Chennai - 600097,410,426,FAC
+monthly,584,591,DATE
+before 10th of every month,689,715,DATE
+30000,766,771,MONEY
+Owner,953,958,ORG
+11 months,1033,1042,DATE
+the month,1075,1084,DATE
+English,1106,1113,LANGUAGE
+a consecutive period of 3 months,1239,1271,DATE
+one month,1706,1715,DATE
+the day,2205,2212,DATE
+month and year first,2213,2233,DATE
+TENANT,2280,2286,PERSON

@@ -1,0 +1,34 @@
+entity,start_char,end_char,label
+Principal Tenant (Landlords,180,207,ORG
+Principal Tenant,301,317,ORG
+Month-to-Month,449,463,DATE
+30) days,536,544,DATE
+monthly,685,692,DATE
+the	Lh,696,702,ORG
+CJdoes,742,748,ORG
+monthly,871,878,DATE
+monthly,922,929,DATE
+monthly,963,970,DATE
+monthly,1042,1049,DATE
+D Mediation,1408,1419,ORG
+third,1433,1438,ORDINAL
+normal business hours,2029,2050,TIME
+three weeks,2935,2946,DATE
+the County of Santa Cruz,3350,3374,GPE
+Scotts Valley,3398,3411,GPE
+annually,3443,3451,DATE
+'last month''s',3483,3495,DATE
+Cnnbr^cJ,3622,3630,PERSON
+the Condition of Rental Property Checklist,3828,3870,ORG
+houXehold,3887,3896,PERSON
+first,3897,3902,ORDINAL
+Megan,3914,3919,PERSON
+290.46,3948,3954,CARDINAL
+the Department of Justice,4098,4123,ORG
+Tenant(s,4376,4384,PERSON
+acknowledge(s)/^ece\pt,4386,4408,PERSON
+Disclosure of Information on Lead-Based Paint,4413,4458,WORK_OF_ART
+1978,4543,4547,DATE
+Protect Your Family from Lead in Your Home,4663,4705,WORK_OF_ART
+1978,4741,4745,DATE
+1-800-424,4766,4775,CARDINAL

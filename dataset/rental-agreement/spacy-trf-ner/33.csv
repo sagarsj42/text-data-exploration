@@ -1,0 +1,30 @@
+entity,start_char,end_char,label
+Bangalore,108,117,GPE
+the 1st day of February 2008,127,155,DATE
+T.RADHA KRISHNAN,177,193,PERSON
+Murugeshpalya,241,254,GPE
+one,314,317,CARDINAL
+3rd,416,419,ORDINAL
+Kathiguppe,427,437,GPE
+'i2 Technologies India Pvt, Ltd. #',502,535,ORG
+Divya sree Technopolis,544,566,FAC
+Yamalur,568,575,GPE
+monthly,825,832,DATE
+5th of every month,906,924,DATE
+Eleven Months,1294,1307,DATE
+1st day of February 2008,1324,1348,DATE
+the month,1354,1363,DATE
+the English calendar month,1381,1407,DATE
+One month,2549,2558,DATE
+11 months,2881,2890,DATE
+5%,2926,2928,PERCENT
+Murugeshpalya,3045,3058,GPE
+two,3135,3138,CARDINAL
+year first,3350,3360,DATE
+1,3387,3388,CARDINAL
+Bangalore,3399,3408,GPE
+RifcoSanthosh Apartments,3422,3446,FAC
+NAL Road,3456,3464,FAC
+Murugeshpalya,3466,3479,GPE
+9845444484,3514,3524,CARDINAL
+2,3526,3527,CARDINAL

@@ -1,0 +1,40 @@
+entity,start_char,end_char,label
+Bangalore,115,124,GPE
+today,138,143,DATE
+May 2010,157,165,DATE
+1,183,184,CARDINAL
+Balaji.R,190,198,PERSON
+about 63 years,205,219,DATE
+Hereinafter,270,281,PERSON
+First,325,330,ORDINAL
+one,339,342,CARDINAL
+1,359,360,CARDINAL
+about 31 years,380,394,DATE
+Hereinafter,469,480,PERSON
+Lessees,509,516,PERSON
+second,525,531,ORDINAL
+first,626,631,ORDINAL
+second,762,768,ORDINAL
+Lessees,923,930,ORG
+Vacates,1065,1072,ORG
+Lessees,1130,1137,ORG
+Lessor,1145,1151,ORG
+Thirty Eight Thousand Only,1182,1208,WORK_OF_ART
+10th,1223,1227,ORDINAL
+English,1237,1244,LANGUAGE
+a period of eleven (11) months,1293,1323,DATE
+Lessor,1392,1398,PERSON
+Lessee,1407,1413,ORG
+one month,1517,1526,DATE
+Lessees,1599,1606,PERSON
+Lessee,1618,1624,ORG
+sri manjunatha nilaya,1915,1936,FAC
+raju colony,1938,1949,FAC
+yamalur Bangalore-560037,1951,1975,FAC
+one,1989,1992,CARDINAL
+'Hall, One Bed Room',1993,2011,ORG
+Bath Room,2022,2031,ORG
+Completely Electrified,2037,2059,ORG
+two,2254,2257,CARDINAL
+the day month year,2274,2292,DATE
+1,2319,2320,CARDINAL

@@ -1,0 +1,44 @@
+entity,start_char,end_char,label
+Chennai,128,135,GPE
+this 19th day of August 2013,136,164,DATE
+Geetha,183,189,PERSON
+about 53 years,215,229,DATE
+No.62-D,243,250,FAC
+Pinagapani Street,279,296,LOC
+Devaki Nagar,298,310,LOC
+Kundrathur,312,322,GPE
+one,524,527,CARDINAL
+J. L. Saravana,617,631,PERSON
+about 33 years,638,652,DATE
+M S Jambulingam,657,672,PERSON
+No.,686,689,FAC
+13/5,690,694,CARDINAL
+Janakiraman Street,696,714,LOC
+Muthurangam Block,716,733,LOC
+Ashok Nagar,750,761,LOC
+M. Geetha,1003,1012,PERSON
+No.62-D,1054,1061,FAC
+Saravana Flats,1063,1077,FAC
+1st Floor,1079,1088,LOC
+Pinagapani Street,1090,1107,LOC
+Devaki Nagar,1109,1121,LOC
+Kundrathur,1123,1133,GPE
+250,1163,1166,CARDINAL
+First Floor,1283,1294,LOC
+monthly,1693,1700,DATE
+Rs.2500,1709,1716,MONEY
+First,1768,1773,ORDINAL
+No.62-D,1805,1812,FAC
+Saravana Flats,1814,1828,LOC
+1st Floor,1830,1839,LOC
+Pinagapani Street,1841,1858,LOC
+Devaki Nagar,1860,1872,LOC
+Kundrathur,1874,1884,GPE
+11 Months,2019,2028,DATE
+August 2014,2045,2056,DATE
+5th of every month,2116,2134,DATE
+Office,2347,2353,ORG
+4 months,2994,3002,DATE
+THE DAY AND YEAR FIRST,3433,3455,DATE
+1,3484,3485,CARDINAL
+2,3497,3498,CARDINAL

@@ -1,0 +1,38 @@
+entity,start_char,end_char,label
+Landlords,198,207,ORG
+Tenant,213,219,ORG
+Principal Tenant,301,317,ORG
+Landlord,320,328,ORG
+Tenant,392,398,ORG
+Month-to-Month,449,463,PERSON
+thirty (30) days,528,544,DATE
+no less than 7 days,636,655,DATE
+monthly,685,692,DATE
+the	Lh.	day of the month,696,720,DATE
+Rent jS,727,734,ORG
+Tenant,852,858,ORG
+monthly,871,878,DATE
+Tenant,903,909,ORG
+monthly,922,929,DATE
+Tenant,944,950,ORG
+monthly,963,970,DATE
+Tenant,1022,1028,ORG
+0,1035,1036,CARDINAL
+monthly,1042,1049,DATE
+third,1433,1438,ORDINAL
+normal business hours,2029,2050,TIME
+Last mop&\,2112,2122,DATE
+three weeks,2935,2946,DATE
+the County of Santa Cruz,3350,3374,GPE
+Scotts Valley,3398,3411,LOC
+'last month''s',3483,3495,DATE
+the Condition of Rental Property Checklist,3828,3870,LAW
+first,3897,3902,ORDINAL
+Megan,3914,3919,PERSON
+Law,3922,3925,PERSON
+Pursuant To Section 290.46 of Mie Penal Code,3928,3972,LAW
+the Department of Justice,4098,4123,ORG
+ZIP Code,4307,4315,LAW
+1978,4543,4547,DATE
+Protect Your Family from Lead in Your Home,4663,4705,ORG
+1978,4741,4745,DATE

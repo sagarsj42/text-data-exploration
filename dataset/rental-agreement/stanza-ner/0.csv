@@ -1,0 +1,38 @@
+entity,start_char,end_char,label
+KARNATAKA,11,20,PERSON
+2,70,71,CARDINAL
+This Rental Agreement,203,224,LAW
+Bangalore,253,262,GPE
+Giddappa,299,307,PERSON
+Nagappa,317,324,PERSON
+2nd,335,338,ORDINAL
+Shunthi L/o Rumamurthynagar,346,373,PERSON
+Bangalore,375,384,GPE
+One,431,434,CARDINAL
+Pottumurthi Udayalaxmi,444,466,PERSON
+Ramakr ishna Kajjam,471,490,PERSON
+Main Bazar,502,512,FAC
+Miryalaguda,515,526,GPE
+Nalgonda Dist,531,544,ORG
+503207,549,555,CARDINAL
+Hereinafter,558,569,PERSON
+1,653,654,CARDINAL
+Tenant,668,674,ORG
+Forty thousand,716,730,CARDINAL
+thousand three hundred,982,1004,CARDINAL
+month,1016,1021,DATE
+Electrcity,1038,1048,ORG
+This Rental Agreement Duration,1079,1109,LAW
+11(Eleven) months,1119,1136,DATE
+Tenancy,1232,1239,ORG
+Two Month,1284,1293,DATE
+Tenant,1337,1343,ORG
+Tenant,1489,1495,ORG
+Tenant,1626,1632,ORG
+House,1719,1724,ORG
+184,1750,1753,CARDINAL
+1st,1754,1757,ORDINAL
+Bangalore 560016,1808,1824,FAC
+1,1837,1838,CARDINAL
+this Rental Agreement,1920,1941,LAW
+'the day,month and year first',1945,1973,DATE

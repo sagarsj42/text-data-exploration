@@ -1,0 +1,47 @@
+entity,start_char,end_char,label
+This House Rental Contract,57,83,WORK_OF_ART
+this 20th day of May 2007,107,132,DATE
+Manila,136,142,GPE
+Antonio Levy S. Ingles,160,182,PERSON
+Mary Rose C. Ingles,195,214,PERSON
+Unit 2006,267,276,FAC
+EGI Taft Tower,277,291,FAC
+2339 Taft Avenue,292,308,FAC
+Malate,310,316,GPE
+Manila,318,324,GPE
+6 Manganese Road,450,466,FAC
+Pilar Village,468,481,GPE
+Las Pinas,483,492,GPE
+Metro Manila,494,506,GPE
+Resident,608,616,ORG
+GERALDINE O. GALINATO,631,652,PRODUCT
+Antonio Levy S. Ingles,678,700,PERSON
+Mary Rose C. Ingles,713,732,PERSON
+Lot 6,782,787,FAC
+Block 20,789,797,FAC
+Royal South Townhomes,799,820,FAC
+Marcos Alvarez Avenue,822,843,FAC
+Talon 5,845,852,GPE
+Las Pinas City,854,868,GPE
+Metro Manila,870,882,GPE
+'the 20th day of May, 2007',912,937,DATE
+monthly,943,950,DATE
+'the 20th day of May, 2008',968,993,DATE
+Agreement,1014,1023,ORG
+6.500.001,1236,1245,CARDINAL
+the 20th day of every month,1289,1316,DATE
+a Notice to End Residential Tenancy,1395,1430,ORG
+the Notice to End Residential Tenancy,1639,1676,LAW
+three-dav,1771,1780,DATE
+monthly,1847,1854,DATE
+5%,1906,1908,PERCENT
+PERCENT,1910,1917,ORG
+the Resident(s),1979,1994,LAW
+the Owner(s,2045,2056,LAW
+6.500.001,2270,2279,MONEY
+Owner,2522,2527,ORG
+Resident,2610,2618,ORG
+at least 7 days,2771,2786,DATE
+monthly,2829,2836,DATE
+first,2932,2937,ORDINAL
+3 day,3141,3146,DATE

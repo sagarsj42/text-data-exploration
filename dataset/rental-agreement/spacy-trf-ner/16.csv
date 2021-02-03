@@ -1,0 +1,63 @@
+entity,start_char,end_char,label
+this 27TH Day of MARCH 2016,42,69,DATE
+PAUL PAULINO,93,105,PERSON
+Landlord,162,170,ORG
+96818,244,249,CARDINAL
+APRIL 1. 2016,386,399,DATE
+month,477,482,DATE
+at least 30 days,574,590,DATE
+Landlord,703,711,ORG
+monthly,768,775,DATE
+the 1st day of each month,790,815,DATE
+first,855,860,ORDINAL
+ARSENLA PAULINO,1027,1042,PERSON
+this Rental Agreement,1250,1271,LAW
+7 days,1282,1288,DATE
+prior to the 8th of the month,1337,1366,DATE
+25,1392,1394,MONEY
+5,1425,1426,MONEY
+every day,1439,1448,DATE
+Tenant,1632,1638,ORG
+Landlord,1699,1707,ORG
+Tenant,1709,1715,ORG
+25,1758,1760,MONEY
+500,2013,2016,MONEY
+Landlord,2073,2081,ORG
+Landlord,2350,2358,ORG
+at least thirty (30) working days,2365,2398,DATE
+Landlord,2453,2461,ORG
+Tenant,2672,2678,ORG
+30 days,2728,2735,DATE
+at least thirty (30) days,2891,2916,DATE
+Tenant,3062,3068,ORG
+Landlord,3098,3106,ORG
+Landlord,3206,3214,ORG
+Tenant,3250,3256,ORG
+Landlord,3369,3377,ORG
+15 days,3748,3755,DATE
+that month,3791,3801,DATE
+previous months,3837,3852,DATE
+Landlord,3994,4002,ORG
+two,4176,4179,CARDINAL
+Landlord,4341,4349,ORG
+Landlord,4351,4359,ORG
+3 days,4683,4689,DATE
+Landlords,5252,5261,ORG
+Landlord,5349,5357,ORG
+first,5986,5991,ORDINAL
+more than seventy-two (72) hours,6485,6517,TIME
+3-day,7471,7476,DATE
+first,7698,7703,ORDINAL
+Landlords,7714,7723,ORG
+Landlord,7816,7824,ORG
+Landlord,7975,7983,ORG
+first,8076,8081,ORDINAL
+Landlord,8518,8526,ORG
+Landlord,8671,8679,ORG
+45 days,8711,8718,DATE
+Tenant,8737,8743,ORG
+this Rental Agreement,8843,8864,LAW
+this Rental Agreement,9254,9275,LAW
+the Rental Agreement,9336,9356,LAW
+'this	day of	, 20	.',9368,9386,DATE
+PAUL PAULINO,9411,9423,PERSON

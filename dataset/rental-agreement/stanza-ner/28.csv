@@ -1,0 +1,27 @@
+entity,start_char,end_char,label
+P,142,143,PERSON
+K JOSEPH,158,166,GPE
+first,211,216,ORDINAL
+L GOPINATH,238,248,PERSON
+second,307,313,ORDINAL
+first,356,361,ORDINAL
+second,538,544,ORDINAL
+monthly,632,639,DATE
+second,808,814,ORDINAL
+1st April 2010,865,879,DATE
+monthly,942,949,DATE
+Seven thousand,975,989,CARDINAL
+11 months,1012,1021,DATE
+from 1st of April 2010,1031,1053,DATE
+5th,1087,1090,ORDINAL
+the succeeding calendar month,1094,1123,DATE
+a period of 11 months,1176,1197,DATE
+'this day, 1st of April 2010',1215,1242,DATE
+Ninety Five thousand,1536,1556,CARDINAL
+monthly,1703,1710,DATE
+Two months,3445,3455,DATE
+two month,3736,3745,DATE
+eleven months,3843,3856,DATE
+one month,3858,3867,DATE
+First,4577,4582,ORDINAL
+Second,4603,4609,ORDINAL

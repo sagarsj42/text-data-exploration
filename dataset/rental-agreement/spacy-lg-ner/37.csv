@@ -1,0 +1,58 @@
+entity,start_char,end_char,label
+20 April 2011,138,151,DATE
+Asha Ramesh,165,176,PERSON
+Ramesh,181,187,PERSON
+K.N. Residing,188,201,ORG
+1st Floor,205,214,ORG
+Vysya Bank Colony,221,238,ORG
+ShantiniketanLayout,240,259,ORG
+Arakere Post,261,273,ORG
+Bangalore-560076,294,310,PERSON
+ONE,418,421,CARDINAL
+Sadasivuni Kiran,460,476,PERSON
+53,484,486,CARDINAL
+KRM Colony,494,504,FAC
+Maddilapalem,506,518,PERSON
+2nd,809,812,ORDINAL
+monthly,888,895,DATE
+'Rs.5500/-(Five thousand five hundred only}
+
+',904,948,MONEY
+monthly,973,980,DATE
+5th,999,1002,ORDINAL
+English,1012,1019,LANGUAGE
+'55,000/-(Rs',1090,1101,CARDINAL
+Fifty five thousand,1103,1122,CARDINAL
+Non Interest Bearing Security Deposit,1132,1169,ORG
+11 (months,1375,1385,DATE
+monthly,1439,1446,DATE
+half,1545,1549,CARDINAL
+Bill,1582,1586,PERSON
+monthly,1603,1610,DATE
+Rs,1695,1697,ORG
+100/month,1699,1708,DATE
+daily,1798,1803,DATE
+months,1990,1996,DATE
+this Rental Agreement,2055,2076,LAW
+10%,2182,2185,PERCENT
+12 months,2221,2230,DATE
+consecutive period of,2571,2592,DATE
+2 months,2593,2601,DATE
+2nd,3018,3021,ORDINAL
+Vysya Bank Colony,3043,3060,ORG
+ShantiniketanLyt,3062,3078,GPE
+Arakere Post,3080,3092,ORG
+Bangalore,3113,3122,GPE
+0076,3127,3131,CARDINAL
+one,3148,3151,CARDINAL
+one,3158,3161,CARDINAL
+one,3171,3174,CARDINAL
+one,3228,3231,CARDINAL
+two wheeler parking,3232,3251,QUANTITY
+Overheadtanks,3273,3286,ORG
+3Kw,3310,3313,CARDINAL
+AEH power electric,3314,3332,ORG
+Granite Floors & Slabs,3383,3405,ORG
+'SADASHIVUNI KIRAN
+
+',3468,3487,PERSON

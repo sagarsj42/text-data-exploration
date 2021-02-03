@@ -1,0 +1,38 @@
+entity,start_char,end_char,label
+HOUSE,0,5,ORG
+'Jan 10, 2011',49,61,DATE
+Namashivayam,71,83,GPE
+Plat No-182,85,96,PERSON
+24th East Street,121,137,FAC
+Kamaraj Nagar,139,152,PERSON
+Thiruvanmiyur,154,167,NORP
+Chennai,169,176,GPE
+Thenmalar,236,245,PERSON
+Kottaikadu,259,269,PERSON
+Vadakadu,276,284,PERSON
+Pudukkottai,292,303,PERSON
+First,352,357,ORDINAL
+First,508,513,ORDINAL
+Plat No-182,544,555,LOC
+24th East Street,580,596,FAC
+Kamaraj Nagar,598,611,PERSON
+Thiruvanmiyur,613,626,PERSON
+Jan 10 2011,756,767,DATE
+monthly,775,782,DATE
+Rs,791,793,ORG
+14500,795,800,CARDINAL
+Fourteen thousand and five hundred rupees,802,843,CARDINAL
+5th,872,875,ORDINAL
+Landlord,898,906,ORG
+'twelve months w.e.f Jan 10, 2011',946,978,DATE
+Rs,1001,1003,ORG
+100000(0ne,1005,1015,CARDINAL
+12 months,1193,1202,DATE
+three months,1476,1488,DATE
+a month,1707,1714,DATE
+that month,1784,1794,DATE
+annual,2001,2007,DATE
+11,2516,2518,CARDINAL
+12.The,2723,2729,CARDINAL
+Thenmalar,2880,2889,PERSON
+'Jan 10, 2011',2935,2947,DATE

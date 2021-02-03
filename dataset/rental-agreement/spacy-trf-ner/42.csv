@@ -1,0 +1,16 @@
+entity,start_char,end_char,label
+'wef 1/4/2015
+
+Mr',311,327,DATE
+503207,584,590,CARDINAL
+1,688,689,CARDINAL
+'Rs. 40,000/-',737,749,MONEY
+Forty thousand only	,752,772,MONEY
+thousand three hundred,1017,1039,CARDINAL
+2.,1109,1111,CARDINAL
+11 (Eleven) months,1159,1177,DATE
+1st,1798,1801,ORDINAL
+2nd,1808,1811,ORDINAL
+Bangalore,1851,1860,GPE
+this Rental Agreement,1963,1984,LAW
+first,2011,2016,ORDINAL

@@ -1,0 +1,21 @@
+entity,start_char,end_char,label
+the lstth of May 2010,144,165,DATE
+Balaji,190,196,PERSON
+about 63 years,205,219,DATE
+First,325,330,ORDINAL
+one,339,342,CARDINAL
+Kartheek R,364,374,PERSON
+about 31 years,380,394,DATE
+second,525,531,ORDINAL
+first,626,631,ORDINAL
+second,762,768,ORDINAL
+Rs.3800/-,1164,1173,MONEY
+Rupees Thirty Eight Thousand,1175,1203,MONEY
+10th of every English Calendar Month,1223,1259,DATE
+eleven (11) months,1305,1323,DATE
+Lessee,1407,1413,ORG
+one month,1517,1526,DATE
+Lessees,1599,1606,PERSON
+two,2254,2257,CARDINAL
+today,2268,2273,DATE
+the day month year,2274,2292,DATE

@@ -1,0 +1,57 @@
+entity,start_char,end_char,label
+Chennai,128,135,GPE
+this 19th day of August 2013,136,164,DATE
+M. Geetha,180,189,PERSON
+V. Manoharan,196,208,PERSON
+about 53 years,215,229,DATE
+No.62-D,243,250,GPE
+Saravana Flats,252,266,FAC
+1st Floor,268,277,FAC
+Pinagapani Street,279,296,FAC
+Devaki Nagar,298,310,FAC
+Kundrathur,312,322,GPE
+Chennai-600,324,335,CARDINAL
+069,336,339,CARDINAL
+Hereinafter,341,352,PERSON
+one,524,527,CARDINAL
+J. L. Saravana,617,631,PERSON
+about 33 years,638,652,DATE
+M S Jambulingam,657,672,FAC
+No. 13/5,686,694,FAC
+Janakiraman Street,696,714,FAC
+Muthurangam Block,716,733,FAC
+Jafferkhanpet,735,748,GPE
+Ashok Nagar,750,761,GPE
+Chennai,763,770,GPE
+083,777,780,CARDINAL
+M. Geetha,1003,1012,PERSON
+No.62-D,1054,1061,GPE
+Saravana Flats,1063,1077,FAC
+1st Floor,1079,1088,FAC
+Pinagapani Street,1090,1107,FAC
+Devaki Nagar,1109,1121,GPE
+Kundrathur,1123,1133,GPE
+Chennai,1135,1142,GPE
+069,1149,1152,CARDINAL
+250 sq.ft,1163,1172,QUANTITY
+First Floor,1283,1294,FAC
+monthly,1693,1700,DATE
+Rs.2500,1709,1716,MONEY
+the First Floor,1764,1779,FAC
+Saravana Flats,1814,1828,FAC
+1st Floor,1830,1839,FAC
+Pinagapani Street,1841,1858,FAC
+Devaki Nagar,1860,1872,FAC
+Kundrathur,1874,1884,GPE
+Chennai-600 069,1886,1901,FAC
+This Rental Agreement,1972,1993,LAW
+11 Months,2019,2028,DATE
+August 2014,2045,2056,DATE
+5th of every month,2116,2134,DATE
+the Rented Flat,2207,2222,ORG
+Electricity,2246,2257,ORG
+Office,2347,2353,ORG
+4 months,2994,3002,DATE
+every 11 months,3253,3268,DATE
+1,3484,3485,CARDINAL
+2,3497,3498,CARDINAL

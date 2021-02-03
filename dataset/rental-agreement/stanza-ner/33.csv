@@ -1,0 +1,51 @@
+entity,start_char,end_char,label
+This Agreement of Tenancy,58,83,LAW
+Bangalore,108,117,GPE
+the 1st day of February 2008,127,155,DATE
+T.RADHA,177,184,PERSON
+KRISHNAN,185,193,PERSON
+Murugeshpalya,241,254,GPE
+Bangalore,256,265,GPE
+Hereinafter,270,281,PERSON
+one,314,317,CARDINAL
+No-401,371,377,DATE
+Banashankari,402,414,PERSON
+3rd,416,419,ORDINAL
+Kathiguppe,427,437,GPE
+Bangalore,439,448,GPE
+85,449,451,CARDINAL
+9886463146,478,488,CARDINAL
+'i2 Technologies India Pvt, Ltd',502,532,ORG
+132/133,535,542,MONEY
+Yamalur,568,575,GPE
+airport Road,586,598,FAC
+Bangalore,600,609,GPE
+Hereinafter,614,625,PERSON
+5th of every month,906,924,DATE
+Twenty Thousand,1035,1050,CARDINAL
+Cash,1067,1071,ORG
+Eleven Months,1294,1307,DATE
+1st day of February 2008,1324,1348,DATE
+the month,1354,1363,DATE
+English,1385,1392,LANGUAGE
+a consecutive period of three months,1517,1553,DATE
+One month,2549,2558,DATE
+11 months,2881,2890,DATE
+5%,2926,2928,PERCENT
+'No-57,2nd',2998,3007,FAC
+Hemalaya,3016,3024,FAC
+Golf view layout,3027,3043,FAC
+Murugeshpalya,3045,3058,GPE
+Bangalore-17,3060,3072,FAC
+Attached Bathroom & Toilet,3107,3133,ORG
+two,3135,3138,CARDINAL
+'the day, month, year first',3334,3360,DATE
+1,3387,3388,CARDINAL
+Jagdish,3390,3397,PERSON
+Bangalore Homes,3399,3414,ORG
+'No.5, RifcoSanthosh Apartments',3416,3446,ORG
+NAL Road,3456,3464,FAC
+Murugeshpalya,3466,3479,GPE
+Bangalore-560017,3480,3496,GPE
+2,3526,3527,CARDINAL
+Babu,3529,3533,PERSON

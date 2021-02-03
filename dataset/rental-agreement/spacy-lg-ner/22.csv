@@ -1,0 +1,43 @@
+entity,start_char,end_char,label
+Chennai,117,124,GPE
+14th day of July 2010,138,159,DATE
+P. JohnsonRavikumar,172,191,PERSON
+about 43 Years,198,212,DATE
+10,236,238,CARDINAL
+Jeevanantham Street,251,270,PERSON
+Lakshmipuram Tiruvanmiyur,272,297,PERSON
+Chennai,299,306,GPE
+041,313,316,CARDINAL
+HOUSE,403,408,ORG
+Saravanan BV,427,439,PERSON
+about 27 years,445,459,DATE
+10,483,485,CARDINAL
+Jeevanantham Street,498,517,PERSON
+Lakshmipuram Tiruvanmiyur,519,544,PERSON
+Chennai,546,553,GPE
+041,560,563,CARDINAL
+HOUSE,671,676,ORG
+HOUSE,854,859,ORG
+10,921,923,CARDINAL
+Jeevanantham Street,936,955,PERSON
+Lakshmipuram Tiruvanmiyur,957,982,PERSON
+Chennai,984,991,GPE
+041,998,1001,CARDINAL
+monthly,1056,1063,DATE
+HOUSE,1079,1084,ORG
+a period of 11 months,1182,1203,DATE
+01.04.2010,1219,1229,NORP
+30.03.2011,1246,1256,CARDINAL
+monthly,1263,1270,DATE
+'10,000/-',1329,1337,CARDINAL
+English calendar month,1402,1424,DATE
+5th,1459,1462,ORDINAL
+calendar month,1483,1497,DATE
+Fifty thousand,1552,1566,CARDINAL
+the House Owner,1607,1622,ORG
+Tenant,1657,1663,ORG
+House,2058,2063,ORG
+The House Owner and Tenant,2405,2431,ORG
+three months,2450,2462,DATE
+month,2700,2705,DATE
+1,2757,2758,CARDINAL

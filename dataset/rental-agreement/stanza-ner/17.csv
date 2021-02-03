@@ -1,0 +1,51 @@
+entity,start_char,end_char,label
+the 1st day of May 2016 (01.05.2016),26,62,DATE
+ANAND RAJ,71,80,ORG
+CJ Scaria,87,96,PERSON
+26 years,103,111,DATE
+Changankariyil House Karuvanchal PO,125,160,ORG
+Alakode,162,169,GPE
+Taliparamba,171,182,GPE
+Kannur,184,190,GPE
+670571,200,206,CARDINAL
+One,254,257,CARDINAL
+62 years,329,337,DATE
+XXII/688,351,359,DATE
+Nandavanam,361,371,GPE
+Chcmbumukku,373,384,GPE
+Thrikkakara P O. Cochin,386,409,FAC
+682021,410,416,CARDINAL
+Lessor,531,537,PERSON
+the Flat No. 3E,577,592,FAC
+'Items 5 Fan, Kitchen',656,676,ORG
+Thrikkakara Municipality,744,768,GPE
+Lessee,785,791,ORG
+Lessor,810,816,PRODUCT
+Lessee,865,871,PRODUCT
+Lessor,880,886,PRODUCT
+Lessee,988,994,ORG
+Lessor,1009,1015,PRODUCT
+monthly,1018,1025,DATE
+5th day of every month,1149,1171,DATE
+English,1179,1186,LANGUAGE
+Lessee,1245,1251,ORG
+Lessor,1345,1351,ORG
+Lessee,1530,1536,ORG
+Lessee,1652,1658,ORG
+Lessee,1713,1719,ORG
+Lessee,1790,1796,ORG
+Lessee,1888,1894,ORG
+11 months,2011,2020,DATE
+01-05-2016,2026,2036,DATE
+Lessee,2071,2077,ORG
+this day,2175,2183,DATE
+Lessee,2334,2340,ORG
+Lessee,2366,2372,ORG
+the Flat Owners Association,2417,2444,ORG
+one month,2642,2651,DATE
+14,3102,3104,CARDINAL
+one,3139,3142,CARDINAL
+Valancy,3178,3185,PERSON
+the day month and year first,3255,3283,DATE
+1,3343,3344,CARDINAL
+2,3347,3348,CARDINAL

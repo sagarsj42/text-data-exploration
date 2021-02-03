@@ -1,0 +1,39 @@
+entity,start_char,end_char,label
+2003,0,4,DATE
+30005,41,46,CARDINAL
+0ocn**o»s*<*ot,47,61,CARDINAL
+Registration and Stamps Department,89,123,ORG
+This Rental Agreement,233,254,LAW
+Bangalore,283,292,GPE
+'.GiddappA
+
+',328,339,PERSON
+Srvinthi L,376,386,ORG
+RamAmurthynagar Bangalore	,389,415,ORG
+'5600 16
+
+',415,424,MONEY
+Ms Pottumurthi Udayaiaxmi W,472,499,PERSON
+Nalgonda Dist,566,579,ORG
+Hereinafter,593,604,PERSON
+1,688,689,CARDINAL
+Rs,737,739,ORG
+Forty thousand,752,766,CARDINAL
+the Rental Charges of thousand three hundred,995,1039,ORG
+Electrcity,1067,1077,PERSON
+'-2-
+
+',1114,1119,PERSON
+months,1171,1177,DATE
+this date of,1183,1195,DATE
+Two,1325,1328,CARDINAL
+Konth,1329,1334,PERSON
+Schedule,1553,1561,ORG
+House,1764,1769,ORG
+1st,1798,1801,DATE
+2nd,1808,1811,ORDINAL
+Shanthi Vo,1819,1829,ORG
+Bangalore,1851,1860,GPE
+BttC,1882,1886,PERSON
+this Rental Agreement on the day.month end year,1963,2010,LAW
+first,2011,2016,ORDINAL
