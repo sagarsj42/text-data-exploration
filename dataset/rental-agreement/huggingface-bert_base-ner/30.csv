@@ -1,0 +1,7 @@
+entity,start_index,end_index,label,score
+Bangalore,19,27,LOC,0.9992101192474365
+S Sakunthala,32,43,PER,0.9901626110076904
+H REDNAM ALCAZAR Op S Main Old Jail Road Jn Vishakapatnam,39,95,LOC,0.5093774199485779
+V V Ravi Kian V R G . Sastry,129,156,PER,0.9571263790130615
+A S Rao Nagar Hyderabad Andhra Pradesh T C Palya Main Road Ram murthy nagar Bangalore,150,234,LOC,0.9503493905067444
+Schedule,266,273,MISC,0.5239270925521851

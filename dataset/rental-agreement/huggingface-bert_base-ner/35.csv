@@ -1,0 +1,9 @@
+entity,start_index,end_index,label,score
+Chennai,27,33,LOC,0.9993236064910889
+M . Geetha V . Manoharan,38,61,PER,0.9991341829299927
+D Saravana Flat Pinagapani Street Devaki Nagar Kundrathur Chennai Siruvani,64,137,LOC,0.6414480805397034
+Traders Private Limited Rep,151,177,ORG,0.9415328502655029
+J L . Saravana S Jambulingam,161,188,PER,0.9982981085777283
+Janakiraman Street Muthurangam Block Jafferkhanpet Ashok Nagar Chennai,190,259,LOC,0.8068497180938721
+M Geetha,266,273,PER,0.9992579817771912
+D Saravana Flat Pinagapani Street Devaki Nagar Kundrathur Chennai Nagarndra Chennai,282,364,LOC,0.6759741306304932

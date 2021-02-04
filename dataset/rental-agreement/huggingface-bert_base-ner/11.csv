@@ -1,0 +1,8 @@
+entity,start_index,end_index,label,score
+Chennai,20,26,LOC,0.9992259740829468
+BEEN k Sarguneswaran G Kasinath Rao,34,68,PER,0.9658786654472351
+Venkateswara nagar IsMain Velachery Chennai Tamil Nadu,69,122,LOC,0.991410493850708
+OR,101,102,ORG,0.5753575563430786
+R Mathankumar Ramasamy,107,128,PER,0.9978143572807312
+Madha kovil Ganesapuram Namakkal Venkateswaragar Velachery Chennai Tamil Nadu,133,209,LOC,0.9312920570373535
+English,348,354,MISC,0.998786449432373

@@ -1,0 +1,4 @@
+entity,start_index,end_index,label,score
+LEE MING I JIMMY SINAU I,17,40,ORG,0.9715168476104736
+Jalan pulai Tamanlai Skudai,101,127,LOC,0.6690399646759033
+R R R,151,155,MISC,0.9924999475479126

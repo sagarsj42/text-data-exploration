@@ -1,0 +1,8 @@
+entity,start_index,end_index,label,score
+Procall Private Limited Procall Private Limited,20,66,ORG,0.9994986057281494
+Triveni Commercial Complex Shiekh Sarai,43,81,LOC,0.9414733648300171
+Phase,54,58,MISC,0.46872878074645996
+New Delhicall,58,70,LOC,0.9991987347602844
+Telelogic India Pvt . Ltd,114,138,ORG,0.9994249939918518
+Salarpuria Bangalore,126,145,LOC,0.9946781992912292
+Procall HERETO Procall Pvt Ltd Procall Pvt . Ltd Procall Pvt . Ltd Procall Procall,189,270,ORG,0.9863666296005249

@@ -1,0 +1,9 @@
+entity,start_index,end_index,label,score
+Bangalore,18,26,LOC,0.9991332292556763
+K . Parthasarathy,38,54,PER,0.9990337491035461
+T,50,50,LOC,0.7589637041091919
+S Krishna Iyer,52,65,PER,0.553270697593689
+Srinivasa 2nd Main Road Hanumanthanagar Bangalore,68,116,LOC,0.893640398979187
+Veerabrahmam Bathini Lingaiah Bathini,138,174,PER,0.9989723563194275
+Power Research and Development Consultants,169,210,ORG,0.9983500242233276
+West of Chord Road Bangalore Krishna Krupa Cross VHBC Lay West of Chord Road Bangalore Krishna Krupa Cross VHBC Lay West of Chord Road Bangalore,186,329,LOC,0.9611239433288574

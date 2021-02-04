@@ -1,0 +1,5 @@
+entity,start_index,end_index,label,score
+Sri E Anwar,40,50,PER,0.6547296047210693
+BT E W S Bangalore,55,72,LOC,0.4515964686870575
+Mohammed Ishaq Mohammed Moosa,88,116,PER,0.9977803230285645
+M E S B T M Bangalore,112,132,LOC,0.814454197883606

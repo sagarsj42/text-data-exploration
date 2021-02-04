@@ -1,0 +1,6 @@
+entity,start_index,end_index,label,score
+4 LESS LLC Management Jose,38,63,ORG,0.8584709167480469
+Luis Salcido,57,68,PER,0.7073945999145508
+Management Management,74,94,ORG,0.476448655128479
+California,114,123,LOC,0.9992082118988037
+Superior Court Kern County Management,139,175,ORG,0.8890950083732605
