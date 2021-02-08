@@ -1,24 +1,30 @@
 entity,start_char,end_char,label
-this 10th- mav 2009,68,87,DATE
-one,230,233,CARDINAL
-8th,310,313,ORDINAL
-'B.T.M 2nd(EWS)
-
-',341,357,FAC
-1 l(Eleven) Months,999,1017,DATE
-10%,1153,1156,PERCENT
-every 11 months,1160,1175,DATE
-three months,1709,1721,DATE
-15th of every English,2116,2137,DATE
-3 months,2228,2236,DATE
-Lessee,2391,2397,ORG
-Lessee,2432,2438,ORG
-all reasonable hours,2583,2603,TIME
-all reasonable hours,2762,2782,TIME
-BTM 2nd Stage,3406,3419,FAC
-One,3460,3463,CARDINAL
-RCC,3506,3509,ORG
-Lessee,3595,3601,ORG
-'the day,month and year',3644,3666,DATE
-first,3667,3672,ORDINAL
-Bangalore,3684,3693,GPE
+Bangalore,108,117,GPE
+the 1st day of February 2008,127,155,DATE
+T.RADHA KRISHNAN,177,193,PERSON
+Murugeshpalya,241,254,GPE
+one,314,317,CARDINAL
+3rd,416,419,ORDINAL
+Kathiguppe,427,437,GPE
+'i2 Technologies India Pvt, Ltd. #',502,535,ORG
+Divya sree Technopolis,544,566,FAC
+Yamalur,568,575,GPE
+monthly,825,832,DATE
+5th of every month,906,924,DATE
+Eleven Months,1294,1307,DATE
+1st day of February 2008,1324,1348,DATE
+the month,1354,1363,DATE
+the English calendar month,1381,1407,DATE
+One month,2549,2558,DATE
+11 months,2881,2890,DATE
+5%,2926,2928,PERCENT
+Murugeshpalya,3045,3058,GPE
+two,3135,3138,CARDINAL
+year first,3350,3360,DATE
+1,3387,3388,CARDINAL
+Bangalore,3399,3408,GPE
+RifcoSanthosh Apartments,3422,3446,FAC
+NAL Road,3456,3464,FAC
+Murugeshpalya,3466,3479,GPE
+9845444484,3514,3524,CARDINAL
+2,3526,3527,CARDINAL

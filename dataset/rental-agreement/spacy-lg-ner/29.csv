@@ -1,57 +1,52 @@
 entity,start_char,end_char,label
 This Rental Agreement,18,39,LAW
-23 rd day,64,73,DATE
-May Two Thousand Eleven,77,100,DATE
-05-2011,106,113,DATE
-M.V. Srinivas & M.V. Madhumathi,116,147,ORG
-54 years,153,161,DATE
-No.40,187,192,GPE
-7th Cross,194,203,ORG
-Shivanandanagar,206,221,ORG
-Moodalapalya,223,235,GPE
-Bangalore,237,246,GPE
-first,327,332,ORDINAL
-about 32 years,397,411,DATE
-No.40,425,430,GPE
-7th Cross,432,441,ORG
-Shivanandanagar,444,459,ORG
-Moodalapalya,461,473,GPE
-Bangalore,475,484,GPE
-second,543,549,ORDINAL
-the First Party,687,702,ORG
-the Absolute Owner,706,724,ORG
-Schedule,750,758,ORG
-Second Party,768,780,ORG
-Owner,850,855,ORG
-'conditions:-
-
-',936,950,PERSON
-'WITNESSETH AS FOLLOWS:-
-
-',985,1010,ORG
-this day,1025,1033,DATE
-monthly,1197,1204,DATE
-Rs,1213,1215,ORG
-5th,1292,1295,ORDINAL
-a period of 2 months,1346,1366,DATE
-5 %,1440,1443,PERCENT
-Five Percent,1445,1457,PERCENT
-every one year,1467,1481,DATE
-Consumption,1565,1576,PRODUCT
-Three months,1789,1801,DATE
-the Owner for The,1856,1873,ORG
-11,2370,2372,CARDINAL
-Months,2382,2388,DATE
-English calendar month,2411,2433,DATE
-No.40,2702,2707,GPE
-7th Cross,2709,2718,ORG
-Shivanandanagar,2721,2736,ORG
-Moodalapalya,2738,2750,GPE
-Bangalore,2752,2761,GPE
-One Hall,2785,2793,ORG
-One,2795,2798,CARDINAL
-the Owner and Tenant,2845,2865,ORG
-'the day, month',2924,2938,DATE
-Bangalore,2967,2976,GPE
-M.V. Srinivas & M.V. Madhumathi,2996,3027,ORG
-M.V. Thirumalesh,3039,3055,PERSON
+Bangalore,61,70,GPE
+this 1st day April two thousand eleven,74,112,DATE
+K. Parthasarathy,141,157,PERSON
+Late T.S.Krishna,164,180,WORK_OF_ART
+about 75 years,194,208,DATE
+46,214,216,CARDINAL
+Srinivasa,218,227,ORG
+2nd Main Road,229,242,FAC
+Hanumanthanagar,244,259,GPE
+Bangalore-560019,261,277,GPE
+Veerabrahmam Bathini,474,494,PERSON
+Lingaiah Bathini,503,519,PERSON
+about 28 years,525,539,DATE
+Sr,541,543,PRODUCT
+Power Research and Development Consultants,569,611,ORG
+5,614,615,MONEY
+11th,617,621,ORDINAL
+2nd,629,632,ORDINAL
+Bangalore-560086,660,676,ORG
+SECOND,723,729,ORDINAL
+First,891,896,ORDINAL
+146,919,922,CARDINAL
+Krishna Krupa,924,937,PERSON
+3rd Cross,939,948,ORG
+1st Main,950,958,ORG
+VHBCSL Layout,960,973,ORG
+146,1097,1100,CARDINAL
+Krishna Krupa,1102,1115,PERSON
+3rd Cross,1117,1126,ORG
+1st Main,1128,1136,ORG
+VHBCSL Layout,1138,1151,ORG
+monthly,1311,1318,DATE
+'Rs.8,000/-',1327,1337,PERSON
+Ruppes,1339,1345,PERSON
+eight thousand,1346,1360,CARDINAL
+10th,1404,1408,ORDINAL
+monthly,1494,1501,DATE
+a period of,1733,1744,DATE
+twelve months,1745,1758,DATE
+all reasonable hours,2758,2778,TIME
+three months,2914,2926,DATE
+first,2961,2966,ORDINAL
+146,2984,2987,CARDINAL
+VHBCSL Layout,2989,3002,ORG
+3rd,3004,3007,ORDINAL
+1st Main,3015,3023,ORG
+Bangalore-560086,3025,3041,ORG
+147,3062,3065,CARDINAL
+North,3070,3075,LOC
+161,3079,3082,CARDINAL

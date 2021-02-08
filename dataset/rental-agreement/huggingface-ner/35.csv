@@ -1,0 +1,11 @@
+entity,start_index,end_index,label,score
+Bangalore,42,50,LOC,0.999065637588501
+S Parthasarathy SS Ayyangar,48,74,PER,0.9990096092224121
+Road Film Nagar Jubilee Hills Hyderabad,75,113,LOC,0.4875926971435547
+Hari Kiran Tholeti Sambasiva Rao,111,142,PER,0.9994361400604248
+Sri Venkateswara Re Central Excise Colony Bagamberpet Hyderabad,137,199,LOC,0.9345442056655884
+S Parthasarathy,202,216,PER,0.9992417693138123
+Kendriya Vihar Bangalore Bellary Road Yelahanka Bangalore,241,297,LOC,0.9875978231430054
+Kendriya,370,377,ORG,0.47990235686302185
+Vihar,373,377,LOC,0.5004085898399353
+Apart Owners Association KVA,376,403,ORG,0.5383049845695496

@@ -1,30 +1,76 @@
 entity,start_char,end_char,label
-Bangalore,108,117,GPE
-the 1st day of February 2008,127,155,DATE
-T.RADHA KRISHNAN,177,193,PERSON
-Murugeshpalya,241,254,GPE
-one,314,317,CARDINAL
-3rd,416,419,ORDINAL
-Kathiguppe,427,437,GPE
-'i2 Technologies India Pvt, Ltd. #',502,535,ORG
-Divya sree Technopolis,544,566,FAC
-Yamalur,568,575,GPE
-monthly,825,832,DATE
-5th of every month,906,924,DATE
-Eleven Months,1294,1307,DATE
-1st day of February 2008,1324,1348,DATE
-the month,1354,1363,DATE
-the English calendar month,1381,1407,DATE
-One month,2549,2558,DATE
-11 months,2881,2890,DATE
-5%,2926,2928,PERCENT
-Murugeshpalya,3045,3058,GPE
-two,3135,3138,CARDINAL
-year first,3350,3360,DATE
-1,3387,3388,CARDINAL
-Bangalore,3399,3408,GPE
-RifcoSanthosh Apartments,3422,3446,FAC
-NAL Road,3456,3464,FAC
-Murugeshpalya,3466,3479,GPE
-9845444484,3514,3524,CARDINAL
-2,3526,3527,CARDINAL
+Procall Private Limited,77,100,ORG
+Procall Private Limited,132,155,ORG
+# F-6,156,161,FAC
+First,163,168,ORDINAL
+Triveni Commercial Complex,176,202,FAC
+Shiekh Sarai Phase-1,204,224,FAC
+one,448,451,CARDINAL
+the Party M/s,473,486,ORG
+72,514,516,CARDINAL
+Bangalore,565,574,GPE
+Procall for Renting Trunking Radio Services,812,855,ORG
+1,971,972,CARDINAL
+Rs 6000/-,1028,1037,MONEY
+Procall Pvt. Ltd.,1078,1095,ORG
+Procall Pvt. Ltd.,1134,1151,ORG
+Procall Pvt. Ltd,1299,1315,ORG
+Procall,1395,1402,ORG
+Procall,1494,1501,ORG
+12 months,1526,1535,DATE
+Procall,1681,1688,ORG
+12 billed months,1722,1738,DATE
+Procall,1883,1890,ORG
+Procall,2037,2044,ORG
+20%,2216,2219,PERCENT
+Procall,2230,2237,ORG
+Procall,2239,2246,ORG
+Rs. 12000/-,2442,2453,MONEY
+Rupees Twelve Thousand,2455,2477,MONEY
+Procall,2503,2510,ORG
+Procall,2842,2849,ORG
+Radios,2892,2898,PRODUCT
+Procall Private Limited,2924,2947,ORG
+Radios,3012,3018,ORG
+Procall Private Limited,3032,3055,ORG
+Rs. 1200/-,3088,3098,MONEY
+monthly,3126,3133,DATE
+12.36%,3177,3183,PERCENT
+Government of India,3229,3248,ORG
+State Government,3252,3268,ORG
+100,3359,3362,CARDINAL
+one month,3409,3418,DATE
+ProCall Private Limited,3450,3473,ORG
+monthly,3499,3506,DATE
+ProCall Private Limited,3530,3553,ORG
+Motorola Authorized service,3634,3661,ORG
+Bangalore,3672,3681,GPE
+Redington India # 122/2,3721,3744,FAC
+Infantry Road,3746,3759,FAC
+Monarch Chambers,3761,3777,FAC
+2nd,3779,3782,ORDINAL
+Bangalore,3790,3799,GPE
+Procall Private Limited,3858,3881,ORG
+Telelogic India Pvt. Ltd,3968,3992,ORG
+the Motorola Authorized Repair Centre,4007,4044,ORG
+Radios,4070,4076,PRODUCT
+Radios,4223,4229,PRODUCT
+Procall Private Limited,4233,4256,ORG
+12 months,4334,4343,DATE
+30 days,4411,4418,DATE
+12 paid months,4507,4521,DATE
+Procall,4558,4565,ORG
+the balance months,4570,4588,DATE
+Procall,4724,4731,ORG
+Section 138 of the,4946,4964,LAW
+'Instrument Act,',4976,4991,LAW
+'the Arbitration and Conciliation Act,',5180,5217,LAW
+1996,5218,5222,DATE
+Delhi,5373,5378,GPE
+the State of Delhi,5412,5430,GPE
+Procall,5563,5570,ORG
+Procall,5628,5635,ORG
+12 months,5664,5673,DATE
+Govt,5746,5750,ORG
+@12.36%,6011,6018,PERCENT
+this day,6102,6110,DATE

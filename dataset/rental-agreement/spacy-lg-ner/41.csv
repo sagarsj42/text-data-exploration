@@ -1,34 +1,50 @@
 entity,start_char,end_char,label
-Principal Tenant (Landlords,180,207,ORG
-Principal Tenant,301,317,ORG
-Month-to-Month,449,463,DATE
-30) days,536,544,DATE
-monthly,685,692,DATE
-the	Lh,696,702,ORG
-CJdoes,742,748,ORG
-monthly,871,878,DATE
-monthly,922,929,DATE
-monthly,963,970,DATE
-monthly,1042,1049,DATE
-D Mediation,1408,1419,ORG
-third,1433,1438,ORDINAL
-normal business hours,2029,2050,TIME
-three weeks,2935,2946,DATE
-the County of Santa Cruz,3350,3374,GPE
-Scotts Valley,3398,3411,GPE
-annually,3443,3451,DATE
-'last month''s',3483,3495,DATE
-Cnnbr^cJ,3622,3630,PERSON
-the Condition of Rental Property Checklist,3828,3870,ORG
-houXehold,3887,3896,PERSON
-first,3897,3902,ORDINAL
-Megan,3914,3919,PERSON
-290.46,3948,3954,CARDINAL
-the Department of Justice,4098,4123,ORG
-Tenant(s,4376,4384,PERSON
-acknowledge(s)/^ece\pt,4386,4408,PERSON
-Disclosure of Information on Lead-Based Paint,4413,4458,WORK_OF_ART
-1978,4543,4547,DATE
-Protect Your Family from Lead in Your Home,4663,4705,WORK_OF_ART
-1978,4741,4745,DATE
-1-800-424,4766,4775,CARDINAL
+This Rental Agreement,18,39,LAW
+Bangalore,64,73,GPE
+this the 1st May 2005,77,98,DATE
+S.Sakunthala,121,133,PERSON
+'4E,10-12-1',141,151,CARDINAL
+REDNAM ALCAZAR,154,168,PERSON
+SBI Main,176,184,ORG
+Hereinafter,229,240,PERSON
+ONE,403,406,CARDINAL
+Kian„,429,434,PERSON
+A.S.Rao Nagar,455,468,PERSON
+Hyderabad Andhra,471,487,GPE
+Hereinafter,501,512,PERSON
+Fourth Floor,750,762,ORG
+Ram,822,825,PERSON
+Schedule,891,899,ORG
+Schedule Property,955,972,WORK_OF_ART
+Lease,1131,1136,ORG
+11,1162,1164,CARDINAL
+1st April 2010,1197,1211,DATE
+5%,1344,1346,PERCENT
+monthly,1354,1361,DATE
+monthly,1379,1386,DATE
+the Schedule Property,1432,1453,ORG
+Nine thousand and,1476,1493,DATE
+every month,1546,1557,DATE
+tenth day of subsequent month,1565,1594,DATE
+the Schedule Property,1760,1781,ORG
+the Schedule Property,2015,2036,ORG
+Rs,2298,2300,ORG
+Eighty thousand,2316,2331,CARDINAL
+Security Deposit,2356,2372,ORG
+the Schedule Premises,2483,2504,ORG
+one month,2551,2560,DATE
+Lease,2597,2602,ORG
+three months,2775,2787,DATE
+HNO:407 A,2971,2980,ORG
+T.C. Palya Main Road,2982,3002,ORG
+Ram,3004,3007,PERSON
+Bangalore-560037,3022,3038,ORG
+three,3054,3059,CARDINAL
+Bedrooms,3060,3068,ORG
+two,3085,3088,CARDINAL
+Toilet,3098,3104,ORG
+the day,3255,3262,DATE
+month,3264,3269,DATE
+first,3282,3287,ORDINAL
+1,3318,3319,CARDINAL
+2,3322,3323,CARDINAL

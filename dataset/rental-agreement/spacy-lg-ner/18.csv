@@ -1,25 +1,43 @@
 entity,start_char,end_char,label
-this 5th day of JUNE 2009,93,118,DATE
-B. Boobalan,127,138,PERSON
-about 40 years,144,158,DATE
-5/54,173,177,MONEY
-Nethaji Street,179,193,FAC
-Okkiyam Pettai,195,209,PERSON
-one,286,289,CARDINAL
-CHEBOLU VSR DIKSHITULU,303,325,PERSON
-about 22 years,331,345,DATE
-5/54,358,362,MONEY
-Nethaji Street,364,378,FAC
-Okkiyam Pettai,380,394,PERSON
-monthly,584,591,DATE
-Rs,600,602,ORG
-Owner,747,752,ORG
-30000,766,771,CARDINAL
-Owner,953,958,ORG
-a period of 11 months,1021,1042,DATE
-the month,1075,1084,DATE
-English calendar month,1106,1128,DATE
-a consecutive period of,1239,1262,DATE
-3 months,1263,1271,DATE
-one month,1706,1715,DATE
-'the day,month',2205,2218,DATE
+one,403,406,CARDINAL
+ONE,639,642,CARDINAL
+one month,721,730,DATE
+two,823,826,CARDINAL
+monthly,936,943,DATE
+'3,500.00',1009,1017,CARDINAL
+Philippines,1018,1029,GPE
+monthly,1086,1093,DATE
+Seven Thousand Pesos,1288,1308,MONEY
+one month,1354,1363,DATE
+one month,1376,1385,DATE
+first,1633,1638,ORDINAL
+1 day,2615,2620,DATE
+2 days,2680,2686,DATE
+P150,4235,4239,CARDINAL
+four,4670,4674,CARDINAL
+4,4676,4677,CARDINAL
+more than 12 hours,5777,5795,TIME
+at least 14 days,5991,6007,DATE
+one,6047,6050,CARDINAL
+more than 2 months,6094,6112,DATE
+one,6154,6157,CARDINAL
+the final day,6314,6327,DATE
+an additional seven,6605,6624,CARDINAL
+Rental Agreement,6705,6721,LAW
+'September 17, 2014
+
+',6751,6771,DATE
+'October 17, 2014
+
+',6771,6789,DATE
+'November 17, 2014
+
+',6789,6808,DATE
+'December 17, 2014',6808,6825,DATE
+Landlord,6873,6881,ORG
+the Managing Agent/Landlord,6902,6929,ORG
+the Managing Agent/Landlord,7109,7136,ORG
+CATHERINE CABOCHAN	,7827,7846,PERSON
+'MICHAEL DELA CRUZ
+
+TENANT',7846,7871,PERSON

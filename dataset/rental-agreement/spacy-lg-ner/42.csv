@@ -1,39 +1,53 @@
 entity,start_char,end_char,label
-2003,0,4,DATE
-30005,41,46,CARDINAL
-0ocn**o»s*<*ot,47,61,CARDINAL
-Registration and Stamps Department,89,123,ORG
-This Rental Agreement,233,254,LAW
-Bangalore,283,292,GPE
-'.GiddappA
-
-',328,339,PERSON
-Srvinthi L,376,386,ORG
-RamAmurthynagar Bangalore	,389,415,ORG
-'5600 16
-
-',415,424,MONEY
-Ms Pottumurthi Udayaiaxmi W,472,499,PERSON
-Nalgonda Dist,566,579,ORG
-Hereinafter,593,604,PERSON
-1,688,689,CARDINAL
-Rs,737,739,ORG
-Forty thousand,752,766,CARDINAL
-the Rental Charges of thousand three hundred,995,1039,ORG
-Electrcity,1067,1077,PERSON
-'-2-
-
-',1114,1119,PERSON
-months,1171,1177,DATE
-this date of,1183,1195,DATE
-Two,1325,1328,CARDINAL
-Konth,1329,1334,PERSON
-Schedule,1553,1561,ORG
-House,1764,1769,ORG
-1st,1798,1801,DATE
-2nd,1808,1811,ORDINAL
-Shanthi Vo,1819,1829,ORG
-Bangalore,1851,1860,GPE
-BttC,1882,1886,PERSON
-this Rental Agreement on the day.month end year,1963,2010,LAW
-first,2011,2016,ORDINAL
+Chennai,131,138,GPE
+'this 28th day of March, 2012 Between',142,178,DATE
+AR,184,186,PERSON
+SUBBIAH,188,195,ORG
+about 49 years,202,216,DATE
+Arumugam,228,236,PERSON
+No.37,250,255,ORG
+Anandaraja Nagar,257,273,GPE
+S.Kodikulam,275,286,NORP
+K.Pudur Post,288,300,ORG
+625,312,315,CARDINAL
+P. SOCRATES,379,390,PERSON
+about 36 years,397,411,DATE
+E.P. Palaniappan,423,439,PERSON
+Unipres India Pvt. Ltd.,459,482,ORG
+Oragadam,484,492,GPE
+Chennai,494,501,GPE
+SECOND,549,555,ORDINAL
+-2-,710,713,ORG
+Party of the FIRST PART,789,812,ORG
+Flat,866,870,GPE
+Second Floor,874,886,FAC
+Jains Sudharshana,919,936,PERSON
+Rajakilpakkam,939,952,GPE
+Chennai,954,961,GPE
+Premises,1040,1048,ORG
+monthly,1062,1069,DATE
+this day,1100,1108,DATE
+the period ending 31st December 2012,1147,1183,DATE
+31st December 2012,1287,1305,DATE
+'12,000/-',1403,1411,PERSON
+'2,500/-',1489,1496,PERSON
+every month,1805,1816,DATE
+5th,1872,1875,ORDINAL
+English Calendar Month,1900,1922,DATE
+HDFC Bank,2052,2061,ORG
+Trichy Branch,2063,2076,ORG
+Premises (Flat,2125,2139,ORG
+Premises,2428,2436,FAC
+Party,2933,2938,ORG
+the Flat Premises,3033,3050,ORG
+THREE MONTHS,3129,3141,DATE
+1st Party,3533,3542,ORG
+Xerox,3551,3556,ORG
+2nd,3591,3594,ORDINAL
+Flat,3630,3634,GPE
+Second Floor,3638,3650,FAC
+Jains Sudharshana,3683,3700,PERSON
+Rajakilpakkam,3703,3716,GPE
+Chennai,3718,3725,GPE
+MONTH,3944,3949,DATE
+1,4029,4030,CARDINAL

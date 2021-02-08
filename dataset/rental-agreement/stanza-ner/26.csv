@@ -1,55 +1,137 @@
 entity,start_char,end_char,label
-06th day of March 2013,129,151,DATE
-Hyderabad,155,164,GPE
-C.BHAGYAMMA,186,197,PERSON
-about 52 years,226,240,DATE
-H.N04-8-38,261,271,DATE
-Manjeera Nagar,273,287,GPE
-Sangareddy Mandal,289,306,GPE
-Medak District,308,322,GPE
-AP,324,326,ORG
-JP INTERIO,501,511,PERSON
-M/S.SRI,513,520,GPE
-JAYAM HOUSING & CONSTRUCTIONS & M/S.SRI,521,560,ORG
-Managing Director & Managing,619,647,ORG
-B.JAYA PRAKASH,656,670,PERSON
-about 33 years,700,714,DATE
-Ramachandrapuram,745,761,GPE
-Medak District,763,777,GPE
-AP,779,781,ORG
-second,978,984,ORDINAL
-JP INTERIO,1087,1097,PERSON
-SRI JAYAM HOUSING & CONSTRUCTIONS,1107,1140,ORG
-M/S.SRI JAYAM HOUSING & CONSTRUCTIONS,1142,1179,ORG
-204,1226,1229,CARDINAL
-2nd Floor,1231,1240,FAC
-BR,1242,1244,ORG
-Chandanagar,1283,1294,GPE
-Hydearabad,1296,1306,GPE
-Ranga Reddy District,1316,1336,GPE
-Andhra Pradesh,1338,1352,GPE
-first,1367,1372,ORDINAL
-the Flat No.204,1383,1398,FAC
-BR,1412,1414,ORG
-Sharada Hema Durga Galaxy,1417,1442,PERSON
-Situated Chandanagar,1444,1464,FAC
-Hydearabad,1466,1476,GPE
-050,1481,1484,CARDINAL
-Ranga Reddy District,1486,1506,GPE
-Andhra Pradesh,1508,1522,GPE
-'Flat NO.204, llnd Floor',1565,1588,ORG
-BR Sharada Hema durga Galaxy,1590,1618,ORG
-Chandanagar,1632,1643,GPE
-Hyderabad,1645,1654,GPE
-Ranga Reddy District,1664,1684,GPE
-Andhra Pradesh,1686,1700,GPE
-second,1709,1715,ORDINAL
-11 months,1902,1911,DATE
-from 06th day of April 2013,1923,1950,DATE
-'13,000',2128,2134,CARDINAL
-the 10th day of same month,2198,2224,DATE
-first,2545,2550,ORDINAL
-second,2611,2617,ORDINAL
-ONE month,2676,2685,DATE
-Flat,2821,2825,ORG
-TENANT,3463,3469,PERSON
+'this 11 day of December, 2008',59,88,DATE
+'PROSPER 4 LESS,LLC',101,119,ORG
+Jose Luis Salcido,168,185,PERSON
+California,365,375,GPE
+93535,382,387,CARDINAL
+the Superior Court,467,485,ORG
+Kern County,489,500,GPE
+$700.00 Dollars,683,698,MONEY
+'the 15 day of DECEMBER, 2008',723,751,DATE
+Property,902,910,ORG
+Management,1022,1032,ORG
+the "Move-In Inspection Form",1067,1096,LAW
+seven (7) days,1157,1171,DATE
+Management,1232,1242,ORG
+Management,1932,1942,ORG
+Resident and Management,3261,3284,ORG
+monthly,3347,3354,DATE
+Agreement,3434,3443,LAW
+Property,3682,3690,ORG
+Management,3727,3737,ORG
+Property,3886,3894,ORG
+Management,3925,3935,ORG
+the termination of this Agreement,3941,3974,LAW
+2,4298,4299,CARDINAL
+14 days,4403,4410,DATE
+monthly,4476,4483,DATE
+100.00,4493,4499,MONEY
+Agreement,4568,4577,LAW
+Management,4620,4630,ORG
+'this Agreement or Management''s',5049,5079,LAW
+Management,5119,5129,ORG
+Resident’s Initials,5159,5178,PERSON
+Management,5372,5382,ORG
+Property,5621,5629,FAC
+Management,5792,5802,ORG
+monthly,6657,6664,DATE
+Kerosene Heaters,6981,6997,ORG
+Appliances: Resident,7002,7022,ORG
+Kerosene,7053,7061,PRODUCT
+Management,7292,7302,ORG
+Property,7430,7438,ORG
+Management,7489,7499,ORG
+Management,7571,7581,ORG
+Management,7645,7655,ORG
+Basements: Management,7988,8009,ORG
+Resident’s Initials,8554,8573,PERSON
+'a Renter''s Insurance Policy',9004,9031,LAW
+'300,000.00',9471,9481,MONEY
+'ASBESTOS, MOLD',9498,9512,GPE
+1980,9564,9568,DATE
+Property,9993,10001,ORG
+three,10022,10027,CARDINAL
+3) days,10029,10036,DATE
+Management,10077,10087,ORG
+the Federal Pamphlet Protect Your Family From Lead in Your Home,10131,10194,WORK_OF_ART
+Lessor,10203,10209,ORG
+Agreement,10414,10423,LAW
+Management,10461,10471,ORG
+Agreement,10815,10824,LAW
+Management,10849,10859,ORG
+a month to month,10957,10973,DATE
+Rental Rate,11038,11049,ORG
+50%,11077,11080,PERCENT
+the Rental Rate,11093,11108,LAW
+Paragraph 3 hereinabove,11125,11148,LAW
+reasonable hours,11332,11348,TIME
+Management,11495,11505,ORG
+the last sixty (60) days,11662,11686,DATE
+Management,11743,11753,ORG
+Property,11778,11786,ORG
+reasonable hours,11846,11862,TIME
+Management,12134,12144,ORG
+24 hours,12233,12241,TIME
+Management,12376,12386,ORG
+Property,12580,12588,ORG
+Management,12930,12940,ORG
+'Resident, Management',13058,13078,ORG
+Agreement,13110,13119,LAW
+Management,13139,13149,ORG
+Agreement,13397,13406,LAW
+Property,13445,13453,ORG
+more than seven (7) days,13804,13828,DATE
+'Management, Management',13873,13895,ORG
+Agreement,13977,13986,LAW
+first,14350,14355,ORDINAL
+Management,14480,14490,ORG
+Management,14791,14801,ORG
+Management,14846,14856,ORG
+Resident’s Initials,14859,14878,PERSON
+Property and Resident,14956,14977,LAW
+Agreement,15036,15045,LAW
+Management,15104,15114,ORG
+Agreement,15192,15201,LAW
+Management or Resident,15268,15290,ORG
+Property,15365,15373,ORG
+Agreement,15676,15685,LAW
+Agreement,15785,15794,LAW
+Management and Resident,15922,15945,ORG
+years,16038,16043,DATE
+Agreement,16095,16104,LAW
+Property,16216,16224,ORG
+Agreement,16288,16297,LAW
+Management,16344,16354,ORG
+Management,16482,16492,ORG
+Management,16531,16541,ORG
+Management to Resident,16692,16714,ORG
+Management,16757,16767,ORG
+Management,16784,16794,ORG
+Agreement,16885,16894,LAW
+first,17016,17021,ORDINAL
+Management,17113,17123,ORG
+3,17166,17167,CARDINAL
+RESPONSIBILITY: Management,17183,17209,ORG
+Resident,17255,17263,ORG
+Management,17474,17484,ORG
+this Rental Agreement,17512,17533,LAW
+Management,17570,17580,ORG
+this Rental Agreement,17770,17791,LAW
+24 hours,17873,17881,TIME
+Management,17901,17911,ORG
+Management,17950,17960,ORG
+INDEMNIFICATION: Management,18074,18101,ORG
+Property,18218,18226,ORG
+Management,18357,18367,ORG
+Management and Management,18458,18483,ORG
+Agreement,18741,18750,LAW
+ENTIRE AGREEMENT: This Agreement,18794,18826,LAW
+Agreement,18885,18894,LAW
+Agreement,18982,18991,LAW
+EPA,19090,19093,ORG
+EPA,19117,19120,ORG
+the day and year,19319,19335,DATE
+Agreement,19359,19368,LAW
+one,19451,19454,CARDINAL
+Resident’s Initials,19589,19608,PERSON
+Resident’s Initials,19690,19709,PERSON

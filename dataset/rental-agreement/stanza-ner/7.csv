@@ -1,77 +1,55 @@
 entity,start_char,end_char,label
-this first day of September 2011 (01-09-2011),101,146,DATE
-Bangalore,150,159,GPE
-S Parthasarathy,179,194,PERSON
-SS Ayyangar,203,214,PERSON
-69 years,221,229,DATE
-87,252,254,CARDINAL
-9,267,268,CARDINAL
-Film Nagar,270,280,GPE
-Jubilee Hills,282,295,GPE
-Hyderabad - 500096,297,315,ORG
-Hari Kiran Tholeti,372,390,PERSON
-Sambasiva Rao,399,412,PERSON
-36 years,419,427,DATE
-Flat 202,441,449,FAC
-36,456,458,CARDINAL
-Sri Venkateswara Residency,460,486,FAC
-Central Excise Colony,488,509,FAC
-Bagamberpet,511,522,GPE
-Hyderabad,524,533,GPE
-500013,536,542,CARDINAL
-S Parthasarathy,633,648,PERSON
-121,711,714,CARDINAL
-7th Floor),716,726,FAC
-D5 Block,728,736,FAC
-Kendriya Vihar,777,791,FAC
-Bangalore-Bellary Road,793,815,FAC
-Yelahanka,817,826,GPE
-Bangalore- 560064,828,845,FAC
-Owner,958,963,ORG
-Tenant,1011,1017,ORG
-Owner,1127,1132,ORG
-Tenant,1186,1192,ORG
-monthly,1199,1206,DATE
-'Rs.9,000/- (Rupees Nine Thousand',1215,1247,MONEY
-the Kendriya Vihar Apartment Owners Association,1298,1345,ORG
-KVAOA,1347,1352,ORG
-Clause 4,1417,1425,LAW
-Tenant,1458,1464,ORG
-Tenant,1561,1567,ORG
-Owner,1609,1614,ORG
-Clause 3,1646,1654,LAW
-KVAOA,1725,1730,ORG
-Tenant,1738,1744,ORG
-KVAOA,1779,1784,ORG
-Tenant,1791,1797,ORG
-1st September 2011,1828,1846,DATE
-11 (eleven) months,1887,1905,DATE
-monthly,1928,1935,DATE
-1st of every calendar month,1953,1980,DATE
-Tenant,1989,1995,ORG
-the 5th of every calendar month,2040,2071,DATE
-Tenant,2078,2084,ORG
-BESCOM,2131,2137,ORG
-Tenant,2144,2150,ORG
-the Rental Agreement,2424,2444,LAW
-Tenant,2450,2456,ORG
-Tenant,2599,2605,ORG
-Tenant,2722,2728,ORG
-Tenant,2769,2775,ORG
-Tenant,3014,3020,ORG
-Owner,3134,3139,ORG
-Tenant,3222,3228,ORG
-Parties,3256,3263,ORG
-Clause 1,3291,3299,LAW
-10%,3320,3323,PERCENT
-a further period of eleven months,3328,3361,DATE
-this Rental Agreement,3387,3408,LAW
-Tenant,3743,3749,ORG
-the Rental Agreement,3797,3817,LAW
-Tenant,3827,3833,ORG
-this Rental Agreement,3962,3983,LAW
-this Rental Agreement,4059,4080,LAW
-the Scheduled Premises,4117,4139,ORG
-Tenant,4165,4171,ORG
-S Parthasarathy,4568,4583,PERSON
-Hari Kiran Tholeti,4638,4656,PERSON
+06th day of March 2013,129,151,DATE
+Hyderabad,155,164,GPE
+C.BHAGYAMMA,186,197,PERSON
+about 52 years,226,240,DATE
+H.N04-8-38,261,271,DATE
+Manjeera Nagar,273,287,GPE
+Sangareddy Mandal,289,306,GPE
+Medak District,308,322,GPE
+AP,324,326,ORG
+JP INTERIO,501,511,PERSON
+M/S.SRI,513,520,GPE
+JAYAM HOUSING & CONSTRUCTIONS & M/S.SRI,521,560,ORG
+Managing Director & Managing,619,647,ORG
+B.JAYA PRAKASH,656,670,PERSON
+about 33 years,700,714,DATE
+Ramachandrapuram,745,761,GPE
+Medak District,763,777,GPE
+AP,779,781,ORG
+second,978,984,ORDINAL
+JP INTERIO,1087,1097,PERSON
+SRI JAYAM HOUSING & CONSTRUCTIONS,1107,1140,ORG
+M/S.SRI JAYAM HOUSING & CONSTRUCTIONS,1142,1179,ORG
+204,1226,1229,CARDINAL
+2nd Floor,1231,1240,FAC
+BR,1242,1244,ORG
+Chandanagar,1283,1294,GPE
+Hydearabad,1296,1306,GPE
+Ranga Reddy District,1316,1336,GPE
+Andhra Pradesh,1338,1352,GPE
+first,1367,1372,ORDINAL
+the Flat No.204,1383,1398,FAC
+BR,1412,1414,ORG
+Sharada Hema Durga Galaxy,1417,1442,PERSON
+Situated Chandanagar,1444,1464,FAC
+Hydearabad,1466,1476,GPE
+050,1481,1484,CARDINAL
+Ranga Reddy District,1486,1506,GPE
+Andhra Pradesh,1508,1522,GPE
+'Flat NO.204, llnd Floor',1565,1588,ORG
+BR Sharada Hema durga Galaxy,1590,1618,ORG
+Chandanagar,1632,1643,GPE
+Hyderabad,1645,1654,GPE
+Ranga Reddy District,1664,1684,GPE
+Andhra Pradesh,1686,1700,GPE
+second,1709,1715,ORDINAL
+11 months,1902,1911,DATE
+from 06th day of April 2013,1923,1950,DATE
+'13,000',2128,2134,CARDINAL
+the 10th day of same month,2198,2224,DATE
+first,2545,2550,ORDINAL
+second,2611,2617,ORDINAL
+ONE month,2676,2685,DATE
+Flat,2821,2825,ORG
+TENANT,3463,3469,PERSON

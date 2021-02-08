@@ -1,0 +1,7 @@
+entity,start_index,end_index,label,score
+Two Eleven,25,34,MISC,0.7572543025016785
+M V . Srinivas M V Madhumathi,35,63,PER,0.9967629909515381
+7th Cross Shivanandanagar Moodalapalya Bangalore,64,111,LOC,0.5032714009284973
+M V Thirumalesh M V . Venkataramaiah,110,145,PER,0.9828882217407227
+Cross Shivanandanagar Moodalapalya Bangalore,145,188,LOC,0.9198500514030457
+R,311,311,MISC,0.6838735938072205

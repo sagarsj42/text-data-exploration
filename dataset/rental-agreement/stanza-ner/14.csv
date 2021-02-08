@@ -1,32 +1,38 @@
 entity,start_char,end_char,label
-Bangalore,80,89,GPE
-this fifth day of December 2008,90,121,DATE
-MR.K.Kuttan S,130,143,WORK_OF_ART
-Kelu Aehari,146,157,PERSON
-S.M. Road 1st main,212,230,FAC
-T.Dasarahalli,232,245,GPE
-Bangalore-57,247,259,FAC
-Narayana Namboodri,420,438,PERSON
-Laxmi Leela,440,451,PERSON
-3rd,466,469,ORDINAL
-Ayyappa Nagar,476,489,FAC
-Ayyappa Temple,497,511,FAC
-Jalahalli West,513,527,GPE
-Bangalore - 15,529,543,FAC
-No. 8/20,754,762,FAC
-S.M. Road,763,772,FAC
-'Jalahalli West, Bangalore - 15',774,804,FAC
-500 sft,840,847,QUANTITY
-Ilnd,856,860,LOC
-A.C,872,875,FAC
-'Rs.4,000.00 (Rupees Four Thousand',1234,1267,MONEY
-eleven months,1369,1382,DATE
-every eleventh month,1501,1521,DATE
-before 10th of each month,1570,1595,DATE
-'Rs.35,000/- (Rupees',1619,1638,MONEY
-thirty five thousand,1639,1659,CARDINAL
-three month,2072,2083,DATE
-one week,2201,2209,DATE
-third,2627,2632,ORDINAL
-SIIIDIII,2953,2961,PERSON
-1,2988,2989,CARDINAL
+KARNATAKA,11,20,PERSON
+2,70,71,CARDINAL
+This Rental Agreement,203,224,LAW
+Bangalore,253,262,GPE
+Giddappa,299,307,PERSON
+Nagappa,317,324,PERSON
+2nd,335,338,ORDINAL
+Shunthi L/o Rumamurthynagar,346,373,PERSON
+Bangalore,375,384,GPE
+One,431,434,CARDINAL
+Pottumurthi Udayalaxmi,444,466,PERSON
+Ramakr ishna Kajjam,471,490,PERSON
+Main Bazar,502,512,FAC
+Miryalaguda,515,526,GPE
+Nalgonda Dist,531,544,ORG
+503207,549,555,CARDINAL
+Hereinafter,558,569,PERSON
+1,653,654,CARDINAL
+Tenant,668,674,ORG
+Forty thousand,716,730,CARDINAL
+thousand three hundred,982,1004,CARDINAL
+month,1016,1021,DATE
+Electrcity,1038,1048,ORG
+This Rental Agreement Duration,1079,1109,LAW
+11(Eleven) months,1119,1136,DATE
+Tenancy,1232,1239,ORG
+Two Month,1284,1293,DATE
+Tenant,1337,1343,ORG
+Tenant,1489,1495,ORG
+Tenant,1626,1632,ORG
+House,1719,1724,ORG
+184,1750,1753,CARDINAL
+1st,1754,1757,ORDINAL
+Bangalore 560016,1808,1824,FAC
+1,1837,1838,CARDINAL
+this Rental Agreement,1920,1941,LAW
+'the day,month and year first',1945,1973,DATE

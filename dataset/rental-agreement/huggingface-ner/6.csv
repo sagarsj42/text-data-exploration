@@ -1,0 +1,7 @@
+entity,start_index,end_index,label,score
+Bangalore,17,25,LOC,0.9988348484039307
+MR K Kuttan Kelu Aehari,25,47,PER,0.9841773509979248
+Geethalayam O S M Road T Dasarahalli Bangalore,48,93,LOC,0.9610433578491211
+P M . Narayana Namdri Laxmi Leela,106,138,PER,0.99690842628479
+Ayyappa Nagar Ayyappa Temple Jalahalli West Bangalore S M Road Jalahalli West Bangalore MALA,127,218,LOC,0.957319438457489
+R,314,314,MISC,0.8151836395263672

@@ -1,17 +1,33 @@
 entity,start_char,end_char,label
-'wef 1/4/2014
-
-Mr',281,297,DATE
-Pottumurthi Udayalaxmi,444,466,PERSON
-503207,549,555,CARDINAL
-1,653,654,CARDINAL
-Forty thousand,716,730,MONEY
-thousand three hundred,982,1004,CARDINAL
-month,1016,1021,DATE
-Two Month,1284,1293,DATE
-No.,1746,1749,FAC
-184,1750,1753,CARDINAL
-1st,1754,1757,ORDINAL
-2nd,1764,1767,ORDINAL
-Bangalore 560016,1808,1824,FAC
-1 BHK,1837,1842,QUANTITY
+'Jan 10, 2011',49,61,DATE
+Namashivayam,71,83,GPE
+24th East Street,121,137,LOC
+Kamaraj Nagar,139,152,LOC
+Thiruvanmiyur,154,167,GPE
+Chennai,169,176,GPE
+Thenmalar,236,245,PERSON
+Kottaikadu,259,269,GPE
+Vadakadu,276,284,GPE
+Pudukkottai,292,303,GPE
+First,352,357,ORDINAL
+First,508,513,ORDINAL
+'Plat No-182,',544,556,FAC
+24th East Street,580,596,LOC
+Kamaraj Nagar,598,611,LOC
+Thiruvanmiyur,613,626,GPE
+Jan 10 2011,756,767,DATE
+monthly,775,782,DATE
+Rs. 14500,791,800,MONEY
+Fourteen thousand and,802,823,MONEY
+5th of every month,872,890,DATE
+twelve months,946,959,DATE
+'Jan 10, 2011',966,978,DATE
+Rs. 100000(0ne,1001,1015,MONEY
+12 months,1193,1202,DATE
+three months,1476,1488,DATE
+month,1709,1714,DATE
+that month,1784,1794,DATE
+annual,2001,2007,DATE
+Namashivayam,2844,2856,PERSON
+Thenmalar,2880,2889,PERSON
+'Jan 10, 2011',2935,2947,DATE

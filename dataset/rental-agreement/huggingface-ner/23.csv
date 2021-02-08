@@ -1,0 +1,7 @@
+entity,start_index,end_index,label,score
+Bangalore,28,36,LOC,0.9990211725234985
+Balaji,53,58,PER,0.9980502724647522
+Cross SBM Colony Mathikere,67,92,LOC,0.4969143271446228
+Kartheek,108,115,PER,0.9996943473815918
+manjunathlay raj yamalurgalore,124,153,LOC,0.4889439046382904
+English Calendar,350,365,MISC,0.9988125562667847

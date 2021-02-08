@@ -1,64 +1,74 @@
 entity,start_char,end_char,label
 This Rental Agreement,18,39,LAW
-23 rd day,64,73,DATE
-May Two Thousand Eleven,77,100,DATE
-23- 05-2011,102,113,DATE
-M.V. Srinivas,116,129,PERSON
-M.V. Madhumathi,132,147,PERSON
-54 years & 42 Years,153,172,DATE
-No.40,187,192,ORG
-7th Cross,194,203,FAC
-Shivanandanagar,206,221,GPE
-Moodalapalya,223,235,GPE
-Bangalore,237,246,GPE
-560072,249,255,CARDINAL
-first,306,311,ORDINAL
-first,327,332,ORDINAL
-Late M.V. Venkataramaiah,367,391,DATE
-about 32 years,397,411,DATE
-No.40,425,430,ORG
-7th Cross,432,441,FAC
-Shivanandanagar,444,459,GPE
-Moodalapalya,461,473,GPE
-Bangalore - 560072,475,493,FAC
-second,543,549,ORDINAL
-The Word Owner,557,571,ORG
-Tenant,576,582,ORG
-the First Party,687,702,ORG
-Second Party,768,780,ORG
-Tenant,1014,1020,ORG
-this day,1025,1033,DATE
-'50,000',1052,1058,MONEY
-Fifty Thousand,1069,1083,CARDINAL
-Tenant,1174,1180,ORG
-monthly,1197,1204,DATE
-Two Hundred,1248,1259,CARDINAL
-before 5th of every month,1285,1310,DATE
-a period of 2 months,1346,1366,DATE
-5 %,1440,1443,PERCENT
-Five Percent,1445,1457,PERCENT
-every one year,1467,1481,DATE
-Tenant,1488,1494,ORG
-Tenant,1588,1594,ORG
-Tenant,1692,1698,ORG
-Three months,1789,1801,DATE
-Tenant,1845,1851,ORG
-Tenant,1936,1942,ORG
-Tenant,2009,2015,ORG
-11 (Eleven) Months,2370,2388,DATE
-English,2411,2418,LANGUAGE
-Portico,2494,2501,ORG
-I Floor),2685,2693,FAC
-No.40,2702,2707,FAC
-7th Cross,2709,2718,FAC
-Shivanandanagar,2721,2736,GPE
-Moodalapalya,2738,2750,GPE
-Bangalore - 560072,2752,2770,FAC
-'One Hall, One Bed Room',2785,2807,ORG
-one,2811,2814,CARDINAL
-Tenant,2859,2865,PERSON
-'the day, month and year',2924,2947,DATE
-Bangalore,2967,2976,GPE
-1,2991,2992,CARDINAL
-Madhumathi,3017,3027,GPE
-TENANT,3058,3064,PERSON
+Bangalore,61,70,GPE
+this 1st day April two thousand eleven (01/04/2011),74,125,DATE
+Prof,135,139,PERSON
+K. Parthasarathy,141,157,PERSON
+Krishna Iyengar,173,188,PERSON
+about 75 years,194,208,DATE
+No. 46,210,216,FAC
+Srinivasa,218,227,GPE
+2nd Main Road,229,242,FAC
+Hanumanthanagar,244,259,GPE
+Bangalore,261,270,GPE
+560019,271,277,CARDINAL
+Veerabrahmam Bathini,474,494,PERSON
+Mr.Lingaiah Bathini,500,519,PERSON
+about 28 years,525,539,DATE
+Sr. Engineer-PSS,541,557,ORG
+Power Research and Development Consultants,569,611,ORG
+5,614,615,CARDINAL
+11th,617,621,ORDINAL
+2nd,629,632,ORDINAL
+West of Chord Road,640,658,FAC
+Bangalore,660,669,GPE
+560086,670,676,CARDINAL
+SECOND,723,729,ORDINAL
+Lessor,765,771,ORG
+Lessee,794,800,ORG
+the First Floor,887,902,FAC
+146,919,922,CARDINAL
+Krishna Krupa,924,937,PERSON
+3rd Cross,939,948,FAC
+1st Main,950,958,FAC
+VHBCSL Layout,960,973,FAC
+West of Chord Road,975,993,FAC
+Bangalore-560086,995,1011,GPE
+Lessor,1018,1024,PERSON
+the Lessee the First Floor,1049,1075,PRODUCT
+146,1097,1100,CARDINAL
+Krishna Krupa,1102,1115,PERSON
+3rd Cross,1117,1126,FAC
+1st Main,1128,1136,FAC
+VHBCSL Layout,1138,1151,FAC
+West of Chord Road,1153,1171,FAC
+Bangalore- 560086,1173,1190,FAC
+Lessee,1231,1237,ORG
+Lessor,1251,1257,PRODUCT
+monthly,1311,1318,DATE
+eight thousand,1346,1360,CARDINAL
+10th of each calendar month,1404,1431,DATE
+Lessee,1470,1476,ORG
+monthly,1494,1501,DATE
+Lessor,1520,1526,ORG
+Lessee,1641,1647,ORG
+a period of twelve months,1733,1758,DATE
+LEASE-DEED,1868,1878,LAW
+Lessee,2055,2061,ORG
+Lessor,2283,2289,PERSON
+Lessee,2380,2386,PERSON
+Lessee,2409,2415,PRODUCT
+Lessor,2492,2498,PERSON
+Lessor,2678,2684,PERSON
+all reasonable hours,2758,2778,TIME
+Lessee,2897,2903,ORG
+three months,2914,2926,DATE
+first,2961,2966,ORDINAL
+146,2984,2987,CARDINAL
+VHBCSL Layout,2989,3002,FAC
+3rd,3004,3007,ORDINAL
+1st Main,3015,3023,FAC
+Bangalore-560086,3025,3041,FAC
+147,3062,3065,CARDINAL
+North,3070,3075,PERSON
+161,3079,3082,CARDINAL

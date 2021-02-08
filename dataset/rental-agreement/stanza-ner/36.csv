@@ -1,98 +1,47 @@
 entity,start_char,end_char,label
-Date-7/2/08,56,67,ORG
-Procall Private Limited,77,100,ORG
-Corporate Office,112,128,ORG
-Procall Private Limited,132,155,ORG
-First,163,168,ORDINAL
-Triveni Commercial Complex,176,202,ORG
-Shiekh Sarai Phase-1,204,224,PERSON
-17,242,244,CARDINAL
-one,448,451,CARDINAL
-the Party M/s Telelogic India Pvt. Ltd,473,511,ORG
-72,514,516,CARDINAL
-Salarpuria,517,527,GPE
-Bangalore,565,574,GPE
-User,792,796,ORG
-Procall for Renting Trunking Radio Services,812,855,ORG
-Agreement,908,917,ORG
-1,971,972,CARDINAL
-6000,1031,1035,MONEY
-Procall Pvt. Ltd,1078,1094,ORG
-Procall Pvt. Ltd.,1134,1151,ORG
-Procall Pvt. Ltd,1299,1315,ORG
-Procall,1395,1402,ORG
-2,1439,1440,CARDINAL
-User,1462,1466,ORG
-Procall,1494,1501,ORG
-12 months,1526,1535,DATE
-Procall,1681,1688,ORG
-12 billed months,1722,1738,DATE
-the Rental period the Radios,1817,1845,EVENT
-Procall,1883,1890,PRODUCT
-Radio,2007,2012,ORG
-Procall,2037,2044,ORG
-User,2086,2090,ORG
-20%,2216,2219,PERCENT
-Procall,2230,2237,ORG
-Procall,2239,2246,ORG
-Radio,2273,2278,ORG
-UFMI,2341,2345,ORG
-Twelve Thousand,2462,2477,CARDINAL
-Procall,2503,2510,ORG
-Govemment/Statutory Order or Restrictions,2767,2808,LAW
-Procall,2842,2849,ORG
-Procall Private Limited,2924,2947,ORG
-User,2992,2996,ORG
-Procall Private Limited,3032,3055,ORG
-1200,3092,3096,CARDINAL
-monthly,3126,3133,DATE
-12.36%,3177,3183,PERCENT
-Government of India,3229,3248,ORG
-State Government,3252,3268,ORG
-100,3359,3362,CARDINAL
-one month,3409,3418,DATE
-ProCall Private Limited,3450,3473,ORG
-monthly,3499,3506,DATE
-ProCall Private Limited,3530,3553,ORG
-Motorola Authorized,3634,3653,ORG
-Bangalore,3672,3681,GPE
-Redington India,3721,3736,ORG
-122,3739,3742,CARDINAL
-2,3743,3744,CARDINAL
-Infantry Road,3746,3759,FAC
-Monarch Chambers,3761,3777,FAC
-2nd,3779,3782,ORDINAL
-Bangalore,3790,3799,GPE
-Procall Private Limited,3858,3881,ORG
-Telelogic India Pvt,3968,3987,ORG
-the Motorola Authorized Repair Centre,4007,4044,ORG
-User,4169,4173,ORG
-the Radios to Procall Private Limited,4219,4256,ORG
-12 months,4334,4343,DATE
-30 days,4411,4418,DATE
-Customer,4442,4450,ORG
-12 paid months,4507,4521,DATE
-Procall,4558,4565,ORG
-months,4582,4588,DATE
-Procall,4724,4731,ORG
-Section 138 of the negotiable Instrument Act,4946,4990,LAW
-1881,4992,4996,DATE
-first,5123,5128,ORDINAL
-the Arbitration and Conciliation Act,5180,5216,LAW
-1996,5218,5222,DATE
-Agreement,5329,5338,LAW
-Delhi,5373,5378,GPE
-New Delhi,5379,5388,GPE
-the State of Delhi,5412,5430,GPE
-Procall,5563,5570,ORG
-User,5606,5610,ORG
-Procall,5628,5635,ORG
-the period of 12 months,5650,5673,DATE
-User,5721,5725,ORG
-Govt,5746,5750,ORG
-User,5774,5778,ORG
-12.36%,6012,6018,PERCENT
-this day,6102,6110,DATE
-month and year,6112,6126,DATE
-PROCALL PRIVATE LIMITED	Telelogic India Private Limited,6193,6248,ORG
-Signatory,6262,6271,ORG
+This House Rental Contract,57,83,WORK_OF_ART
+this 20th day of May 2007,107,132,DATE
+Manila,136,142,GPE
+Antonio Levy S. Ingles,160,182,PERSON
+Mary Rose C. Ingles,195,214,PERSON
+Unit 2006,267,276,FAC
+EGI Taft Tower,277,291,FAC
+2339 Taft Avenue,292,308,FAC
+Malate,310,316,GPE
+Manila,318,324,GPE
+6 Manganese Road,450,466,FAC
+Pilar Village,468,481,GPE
+Las Pinas,483,492,GPE
+Metro Manila,494,506,GPE
+Resident,608,616,ORG
+GERALDINE O. GALINATO,631,652,PRODUCT
+Antonio Levy S. Ingles,678,700,PERSON
+Mary Rose C. Ingles,713,732,PERSON
+Lot 6,782,787,FAC
+Block 20,789,797,FAC
+Royal South Townhomes,799,820,FAC
+Marcos Alvarez Avenue,822,843,FAC
+Talon 5,845,852,GPE
+Las Pinas City,854,868,GPE
+Metro Manila,870,882,GPE
+'the 20th day of May, 2007',912,937,DATE
+monthly,943,950,DATE
+'the 20th day of May, 2008',968,993,DATE
+Agreement,1014,1023,ORG
+6.500.001,1236,1245,CARDINAL
+the 20th day of every month,1289,1316,DATE
+a Notice to End Residential Tenancy,1395,1430,ORG
+the Notice to End Residential Tenancy,1639,1676,LAW
+three-dav,1771,1780,DATE
+monthly,1847,1854,DATE
+5%,1906,1908,PERCENT
+PERCENT,1910,1917,ORG
+the Resident(s),1979,1994,LAW
+the Owner(s,2045,2056,LAW
+6.500.001,2270,2279,MONEY
+Owner,2522,2527,ORG
+Resident,2610,2618,ORG
+at least 7 days,2771,2786,DATE
+monthly,2829,2836,DATE
+first,2932,2937,ORDINAL
+3 day,3141,3146,DATE

@@ -1,22 +1,17 @@
 entity,start_char,end_char,label
-Bangalore,80,89,GPE
-this fifth day of December 2008,90,121,DATE
-Kelu Aehari,146,157,PERSON
-No 152 Geethalayam OMH colong S.M. Road,182,221,FAC
-T.Dasarahalli,232,245,GPE
-3rd,466,469,ORDINAL
-Ayyappa Nagar,476,489,LOC
-Ayyappa Temple,497,511,FAC
-Jalahalli West,513,527,LOC
-No.,754,757,FAC
-S.M. Road,763,772,FAC
-Bangalore,790,799,GPE
-500 sft,840,847,QUANTITY
-'Rs.4,000.00',1234,1245,MONEY
-eleven months,1369,1382,DATE
-every eleventh month,1501,1521,DATE
-Rupees thirty five thousand,1632,1659,MONEY
-three month,2072,2083,DATE
-one week,2201,2209,DATE
-third,2627,2632,ORDINAL
-1,2988,2989,CARDINAL
+'wef 1/4/2014
+
+Mr',281,297,DATE
+Pottumurthi Udayalaxmi,444,466,PERSON
+503207,549,555,CARDINAL
+1,653,654,CARDINAL
+Forty thousand,716,730,MONEY
+thousand three hundred,982,1004,CARDINAL
+month,1016,1021,DATE
+Two Month,1284,1293,DATE
+No.,1746,1749,FAC
+184,1750,1753,CARDINAL
+1st,1754,1757,ORDINAL
+2nd,1764,1767,ORDINAL
+Bangalore 560016,1808,1824,FAC
+1 BHK,1837,1842,QUANTITY

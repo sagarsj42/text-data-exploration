@@ -1,28 +1,38 @@
 entity,start_char,end_char,label
-this 5th day of JUNE 2009 between B. Boobalan,93,138,DATE
-about 40 years,144,158,DATE
-5/54,173,177,MONEY
-Nethaji Street,179,193,FAC
-Okkiyam Pettai,195,209,FAC
-PTC Quarters,211,223,ORG
-Chennai - 600097,225,241,FAC
-one,286,289,CARDINAL
-CHEBOLU,303,310,PERSON
-about 22 years,331,345,DATE
-#5/54,357,362,FAC
-Nethaji Street,364,378,FAC
-Okkiyam Pettai,380,394,FAC
-PTC Quarters,396,408,ORG
-Chennai - 600097,410,426,FAC
-monthly,584,591,DATE
-before 10th of every month,689,715,DATE
-30000,766,771,MONEY
-Owner,953,958,ORG
-11 months,1033,1042,DATE
-the month,1075,1084,DATE
-English,1106,1113,LANGUAGE
-a consecutive period of 3 months,1239,1271,DATE
-one month,1706,1715,DATE
-the day,2205,2212,DATE
-month and year first,2213,2233,DATE
-TENANT,2280,2286,PERSON
+a period of one (1) year,391,415,DATE
+ONE,639,642,CARDINAL
+1) year,644,651,DATE
+one month,721,730,DATE
+two,823,826,CARDINAL
+monthly,936,943,DATE
+'3,500.00',1009,1017,CARDINAL
+Philippines,1018,1029,GPE
+monthly,1086,1093,DATE
+Seven Thousand,1288,1302,CARDINAL
+'7,000.00',1314,1322,MONEY
+one month,1354,1363,DATE
+one month,1376,1385,DATE
+first,1633,1638,ORDINAL
+1 day,2615,2620,DATE
+2 days,2680,2686,DATE
+P150,4235,4239,MONEY
+four,4670,4674,CARDINAL
+4,4676,4677,CARDINAL
+more than 12 hours,5777,5795,TIME
+at least 14 days,5991,6007,DATE
+one,6047,6050,CARDINAL
+more than 2 months,6094,6112,DATE
+one,6154,6157,CARDINAL
+the final day,6314,6327,DATE
+an additional seven (7) percent,6605,6636,PERCENT
+Rental Agreement,6705,6721,LAW
+'September 17, 2014',6751,6769,DATE
+'October 17, 2014',6771,6787,DATE
+'November 17, 2014',6789,6806,DATE
+'December 17, 2014',6808,6825,DATE
+Landlord,6873,6881,ORG
+Tenant,6890,6896,ORG
+the Managing Agent/Landlord,6902,6929,ORG
+the Managing Agent/Landlord,7109,7136,ORG
+the Managing Agent/Landlord,7616,7643,ORG
+Two,7900,7903,CARDINAL

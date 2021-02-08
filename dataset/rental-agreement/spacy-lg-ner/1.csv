@@ -1,52 +1,34 @@
 entity,start_char,end_char,label
-This Rental Agreement,18,39,LAW
-Bangalore,61,70,GPE
-this 1st day April two thousand eleven,74,112,DATE
-K. Parthasarathy,141,157,PERSON
-Late T.S.Krishna,164,180,WORK_OF_ART
-about 75 years,194,208,DATE
-46,214,216,CARDINAL
-Srinivasa,218,227,ORG
-2nd Main Road,229,242,FAC
-Hanumanthanagar,244,259,GPE
-Bangalore-560019,261,277,GPE
-Veerabrahmam Bathini,474,494,PERSON
-Lingaiah Bathini,503,519,PERSON
-about 28 years,525,539,DATE
-Sr,541,543,PRODUCT
-Power Research and Development Consultants,569,611,ORG
-5,614,615,MONEY
-11th,617,621,ORDINAL
-2nd,629,632,ORDINAL
-Bangalore-560086,660,676,ORG
-SECOND,723,729,ORDINAL
-First,891,896,ORDINAL
-146,919,922,CARDINAL
-Krishna Krupa,924,937,PERSON
-3rd Cross,939,948,ORG
-1st Main,950,958,ORG
-VHBCSL Layout,960,973,ORG
-146,1097,1100,CARDINAL
-Krishna Krupa,1102,1115,PERSON
-3rd Cross,1117,1126,ORG
-1st Main,1128,1136,ORG
-VHBCSL Layout,1138,1151,ORG
-monthly,1311,1318,DATE
-'Rs.8,000/-',1327,1337,PERSON
-Ruppes,1339,1345,PERSON
-eight thousand,1346,1360,CARDINAL
-10th,1404,1408,ORDINAL
-monthly,1494,1501,DATE
-a period of,1733,1744,DATE
-twelve months,1745,1758,DATE
-all reasonable hours,2758,2778,TIME
-three months,2914,2926,DATE
-first,2961,2966,ORDINAL
-146,2984,2987,CARDINAL
-VHBCSL Layout,2989,3002,ORG
-3rd,3004,3007,ORDINAL
-1st Main,3015,3023,ORG
-Bangalore-560086,3025,3041,ORG
-147,3062,3065,CARDINAL
-North,3070,3075,LOC
-161,3079,3082,CARDINAL
+Principal Tenant (Landlords,180,207,ORG
+Principal Tenant,301,317,ORG
+Month-to-Month,449,463,DATE
+30) days,536,544,DATE
+monthly,685,692,DATE
+the	Lh,696,702,ORG
+CJdoes,742,748,ORG
+monthly,871,878,DATE
+monthly,922,929,DATE
+monthly,963,970,DATE
+monthly,1042,1049,DATE
+D Mediation,1408,1419,ORG
+third,1433,1438,ORDINAL
+normal business hours,2029,2050,TIME
+three weeks,2935,2946,DATE
+the County of Santa Cruz,3350,3374,GPE
+Scotts Valley,3398,3411,GPE
+annually,3443,3451,DATE
+'last month''s',3483,3495,DATE
+Cnnbr^cJ,3622,3630,PERSON
+the Condition of Rental Property Checklist,3828,3870,ORG
+houXehold,3887,3896,PERSON
+first,3897,3902,ORDINAL
+Megan,3914,3919,PERSON
+290.46,3948,3954,CARDINAL
+the Department of Justice,4098,4123,ORG
+Tenant(s,4376,4384,PERSON
+acknowledge(s)/^ece\pt,4386,4408,PERSON
+Disclosure of Information on Lead-Based Paint,4413,4458,WORK_OF_ART
+1978,4543,4547,DATE
+Protect Your Family from Lead in Your Home,4663,4705,WORK_OF_ART
+1978,4741,4745,DATE
+1-800-424,4766,4775,CARDINAL

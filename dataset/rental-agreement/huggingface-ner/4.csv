@@ -1,0 +1,7 @@
+entity,start_index,end_index,label,score
+Bangalore,25,33,LOC,0.9992672801017761
+PADMAVATI,39,47,ORG,0.8271270990371704
+Cross Byrasandra Main Road G M Palya Bangalore,53,98,LOC,0.8241214156150818
+SANGHAMITRA PARIDA Sasken CommunicationTechnologies Ltd,88,142,ORG,0.9897288084030151
+Ring Road Domlur Bangalore Cross Byrasandra Main Road G M Palya Bangalore,115,187,LOC,0.9279144406318665
+English,400,406,MISC,0.9474211931228638
